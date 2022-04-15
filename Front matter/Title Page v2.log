@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  23 AUG 2021 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  4 DEC 2021 20:04
 entering extended mode
 **"./Title Page v2.tex"
 (Title Page v2.tex
@@ -55,7 +55,7 @@ Overfull \hbox (18.11095pt too wide) in paragraph at lines 12--13
 
 
 Overfull \hbox (22.6053pt too wide) in paragraph at lines 12--13
- \OT1/cmr/bx/it/10 1.02 
+ \OT1/cmr/bx/it/10 1.07 
  []
 
 ! Misplaced \noalign.
@@ -161,18 +161,18 @@ Overfull \hbox (15.08316pt too wide) in paragraph at lines 26--27
  []
 
 
-Overfull \hbox (16.84984pt too wide) in paragraph at lines 26--27
- \OT1/cmr/bx/it/10 nu- 
+Overfull \hbox (24.82196pt too wide) in paragraph at lines 26--27
+ \OT1/cmr/bx/it/10 mag- 
  []
 
 
-Overfull \hbox (28.66084pt too wide) in paragraph at lines 26--27
- \OT1/cmr/bx/it/10 meric 
+Overfull \hbox (14.19987pt too wide) in paragraph at lines 26--27
+ \OT1/cmr/bx/it/10 ni- 
  []
 
 
-Overfull \hbox (25.72748pt too wide) in paragraph at lines 26--27
- \OT1/cmr/bx/it/10 value 
+Overfull \hbox (21.28865pt too wide) in paragraph at lines 26--27
+ \OT1/cmr/bx/it/10 tude 
  []
 
 
@@ -280,27 +280,51 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (57.99379pt too wide) in paragraph at lines 32--33
+Overfull \hbox (27.84972pt too wide) in paragraph at lines 32--33
+ []\OT1/cmr/bx/it/10 Word 
+ []
+
+
+Overfull \hbox (33.79965pt too wide) in paragraph at lines 32--33
+ \OT1/cmr/bx/it/10 Count\OT1/cmr/m/it/10 : 
+ []
+
+
+Overfull \hbox (21.7999pt too wide) in paragraph at lines 32--33
+ \OT1/cmr/m/it/10 3880 
+ []
+
+! Undefined control sequence.
+l.36 		\Large
+             		
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (57.99379pt too wide) in paragraph at lines 38--39
  []\OT1/cmr/bx/it/10 Mohammed 
  []
 
 
-Overfull \hbox (22.17201pt too wide) in paragraph at lines 32--33
+Overfull \hbox (22.17201pt too wide) in paragraph at lines 38--39
  \OT1/cmr/bx/it/10 Say- 
  []
 
 
-Overfull \hbox (15.37756pt too wide) in paragraph at lines 32--33
+Overfull \hbox (15.37756pt too wide) in paragraph at lines 38--39
  \OT1/cmr/bx/it/10 eed 
  []
 
 
-Overfull \hbox (42.53568pt too wide) in paragraph at lines 32--33
+Overfull \hbox (42.53568pt too wide) in paragraph at lines 38--39
  \OT1/cmr/bx/it/10 Ahamad 
  []
 
 ! Undefined control sequence.
-l.36         \Large
+l.42         \Large
                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -309,24 +333,24 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (29.1608pt too wide) in paragraph at lines 38--39
+Overfull \hbox (29.1608pt too wide) in paragraph at lines 44--45
  []\OT1/cmr/bx/it/10 Batch 
  []
 
 
-Overfull \hbox (9.91106pt too wide) in paragraph at lines 38--39
+Overfull \hbox (9.91106pt too wide) in paragraph at lines 44--45
  \OT1/cmr/bx/it/10 of 
  []
 
 
-Overfull \hbox (24.96082pt too wide) in paragraph at lines 38--39
+Overfull \hbox (24.96082pt too wide) in paragraph at lines 44--45
  \OT1/cmr/bx/it/10 2022 
  []
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.42         \hline
+l.48         \hline
                    
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -338,7 +362,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.46 \end{titlepage}
+l.52 \end{titlepage}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -353,10 +377,10 @@ or  <return>  to continue without it.
  
 Here is how much of TeX's memory you used:
  24 strings out of 478868
- 668 string characters out of 2865271
- 292248 words of memory out of 3000000
+ 588 string characters out of 2865271
+ 293248 words of memory out of 3000000
  18041 multiletter control sequences out of 15000+600000
  404135 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 15i,1n,12p,201b,164s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 15i,1n,12p,197b,164s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
