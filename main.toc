@@ -46,31 +46,32 @@
 \contentsline {section}{\numberline {12.9}\textit {Observation from Case 9 where m = 9 kg}}{24}{section.12.9}%
 \contentsline {section}{\numberline {12.10}\textit {Observation from Case 10 where m = 10 kg}}{24}{section.12.10}%
 \contentsline {chapter}{\numberline {13}\textit {Observations from Derived Data}}{25}{chapter.13}%
-\contentsline {chapter}{\numberline {14}\textit {Analysis}}{27}{chapter.14}%
-\contentsline {section}{\numberline {14.1}\textit {Graphical Analysis}}{27}{section.14.1}%
-\contentsline {subsection}{\numberline {14.1.1}\textit {Graphs in relation to the Experimental values versus time}}{27}{subsection.14.1.1}%
-\contentsline {subsection}{\numberline {14.1.2}\textit {Graphs in relation to the Simulation values versus time}}{37}{subsection.14.1.2}%
-\contentsline {section}{\numberline {14.2}\textit {Numerical Analysis}}{47}{section.14.2}%
-\contentsline {subsection}{\numberline {14.2.1}\textit {Radial Displacement versus Time}}{47}{subsection.14.2.1}%
-\contentsline {subsection}{\numberline {14.2.2}\textit {Angular Displacement versus Time}}{47}{subsection.14.2.2}%
-\contentsline {subsection}{\numberline {14.2.3}\textit {Angular Frequency versus Time}}{47}{subsection.14.2.3}%
-\contentsline {subsection}{\numberline {14.2.4}\textit {Absolute Frequency versus Time}}{48}{subsection.14.2.4}%
-\contentsline {chapter}{\numberline {15}\textit {Evaluation}}{48}{chapter.15}%
-\contentsline {chapter}{\numberline {16}\textit {Limitations of Study}}{49}{chapter.16}%
-\contentsline {chapter}{\numberline {17}\textit {Sources of Error}}{50}{chapter.17}%
-\contentsline {chapter}{\numberline {18}\textit {Conclusion}}{50}{chapter.18}%
-\contentsline {chapter}{\textit {Bibliography}}{52}{chapter.18}%
-\contentsline {chapter}{\numberline {A}\textit {Python Source Codes}}{58}{appendix.A}%
-\contentsline {section}{\numberline {A.1}\textit {Graphical Solution Codes}}{58}{section.A.1}%
-\contentsline {section}{\numberline {A.2}\textit {Path Animation Codes}}{62}{section.A.2}%
-\contentsline {chapter}{\numberline {B}\textit {Raw Experimental Data}}{68}{appendix.B}%
-\contentsline {section}{\numberline {B.1}\textit {Radial Displacement versus Time}}{68}{section.B.1}%
-\contentsline {section}{\numberline {B.2}\textit {Angular Displacement versus Time}}{78}{section.B.2}%
-\contentsline {section}{\numberline {B.3}\textit {Angular Frequency versus Time}}{88}{section.B.3}%
-\contentsline {section}{\numberline {B.4}\textit {Absolute Frequency versus Time}}{98}{section.B.4}%
-\contentsline {chapter}{\numberline {C}\textit {Raw Simulation Data}}{108}{appendix.C}%
-\contentsline {section}{\numberline {C.1}\textit {Radial Displacement versus Time}}{108}{section.C.1}%
-\contentsline {section}{\numberline {C.2}\textit {Angular Displacement versus Time}}{118}{section.C.2}%
-\contentsline {section}{\numberline {C.3}\textit {Angular Frequency versus Time}}{128}{section.C.3}%
-\contentsline {section}{\numberline {C.4}\textit {Absolute Frequency versus Time}}{138}{section.C.4}%
-\contentsline {chapter}{\numberline {D}\textit {Derived Data}}{148}{appendix.D}%
+\contentsline {chapter}{\numberline {14}\textit {Analysis}}{26}{chapter.14}%
+\contentsline {section}{\numberline {14.1}\textit {Graphical Analysis}}{26}{section.14.1}%
+\contentsline {subsection}{\numberline {14.1.1}\textit {Graphs in relation to the Experimental values versus time}}{26}{subsection.14.1.1}%
+\contentsline {subsection}{\numberline {14.1.2}\textit {Graphs in relation to the Simulation values versus time}}{36}{subsection.14.1.2}%
+\contentsline {section}{\numberline {14.2}\textit {Numerical Analysis}}{46}{section.14.2}%
+\contentsline {subsection}{\numberline {14.2.1}\textit {Radial Displacement versus Time}}{46}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14.2.2}\textit {Angular Displacement versus Time}}{46}{subsection.14.2.2}%
+\contentsline {subsection}{\numberline {14.2.3}\textit {Angular Frequency versus Time}}{46}{subsection.14.2.3}%
+\contentsline {subsection}{\numberline {14.2.4}\textit {Absolute Frequency versus Time}}{47}{subsection.14.2.4}%
+\contentsline {chapter}{\numberline {15}\textit {Evaluation}}{47}{chapter.15}%
+\contentsline {chapter}{\numberline {16}\textit {Limitations of Study}}{48}{chapter.16}%
+\contentsline {chapter}{\numberline {17}\textit {Safety Measurements}}{49}{chapter.17}%
+\contentsline {chapter}{\numberline {18}\textit {Sources of Error}}{49}{chapter.18}%
+\contentsline {chapter}{\numberline {19}\textit {Conclusion}}{50}{chapter.19}%
+\contentsline {chapter}{\textit {Bibliography}}{51}{chapter.19}%
+\contentsline {chapter}{\numberline {A}\textit {Python Source Codes}}{57}{appendix.A}%
+\contentsline {section}{\numberline {A.1}\textit {Graphical Solution Codes}}{57}{section.A.1}%
+\contentsline {section}{\numberline {A.2}\textit {Path Animation Codes}}{61}{section.A.2}%
+\contentsline {chapter}{\numberline {B}\textit {Raw Experimental Data}}{67}{appendix.B}%
+\contentsline {section}{\numberline {B.1}\textit {Radial Displacement versus Time}}{67}{section.B.1}%
+\contentsline {section}{\numberline {B.2}\textit {Angular Displacement versus Time}}{77}{section.B.2}%
+\contentsline {section}{\numberline {B.3}\textit {Angular Frequency versus Time}}{87}{section.B.3}%
+\contentsline {section}{\numberline {B.4}\textit {Absolute Frequency versus Time}}{97}{section.B.4}%
+\contentsline {chapter}{\numberline {C}\textit {Raw Simulation Data}}{107}{appendix.C}%
+\contentsline {section}{\numberline {C.1}\textit {Radial Displacement versus Time}}{107}{section.C.1}%
+\contentsline {section}{\numberline {C.2}\textit {Angular Displacement versus Time}}{117}{section.C.2}%
+\contentsline {section}{\numberline {C.3}\textit {Angular Frequency versus Time}}{127}{section.C.3}%
+\contentsline {section}{\numberline {C.4}\textit {Absolute Frequency versus Time}}{137}{section.C.4}%
+\contentsline {chapter}{\numberline {D}\textit {Derived Data}}{147}{appendix.D}%
