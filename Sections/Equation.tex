@@ -5,11 +5,11 @@
             
         $$\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{q}_j}\right) - \frac{\partial L}{\partial q_j} + \frac{\partial R}{\partial q_j} = 0$$
             
-    \textit{Where L is the Lagrangian, $q_i$ is the generalized coordinates, R is the Rayleigh dissipation function and "$Q_j$" is the generalized forces.}
+    \textit{Where L is the \textbf{Lagrangian}, $q_i$ is the \textbf{generalized coordinates}, R is the \textbf{Rayleigh dissipation function} and "$Q_j$" is the \textbf{generalized forces}.}
             
     \textit{According to our specific case that we are investigating, we have two generalized coordinates, "$\theta$" and "x".}        
             
-    \textit{Therefore the coupled set of differential equations that describe the motion of the damped elastic harmonic pendulum (Equations of Motion) with respect to the two generalized coordinates x and $\theta$ are,}
+    \textit{Therefore the \textbf{coupled set of differential equations} that describe the motion of the damped elastic harmonic pendulum (Equations of Motion) with respect to the two generalized coordinates x and $\theta$ are,}
             
         $$m\cdot\ddot{x} -m\cdot(l_0+x)\dot{\theta}^2 + kx - g\cdot m\cdot\cos{\theta} + C_D\dot{x} = 0$$
             
@@ -21,11 +21,13 @@
             
         $$\ddot{\theta} = - \frac{2}{(l_0+x)}\dot{x}\dot{\theta} - \frac{g}{(l_0+x)}\cdot\sin{\theta} - \frac{C_D}{m\cdot(l_0+x)^2}\dot{\theta}$$
             
-    \textit{Where, m is the mass, $l_0$ is the rest length of the spring, x is the extension length of the spring, $\theta$ is the angle made between the spring and the normal, g is the gravitational acceleration, k is the spring stiffness constant and $C_D$ damping coefficient.}
+    \textit{Where, m is the \textbf{mass}, $l_0$ is the \textbf{rest length} of the spring, x is the \textbf{extension length} of the spring, $\theta$ is the \textbf{angle made between the spring and the normal}, g is the \textbf{gravitational acceleration}, k is the \textbf{spring stiffness constant} and $C_D$ \textbf{damping coefficient}.}
             
     \textit{\textbf{Note}: When damping is zero (Absolute Harmonic Motion), $C_D$ is zero.}
             
-    \textit{These equations will be directly inputted into the python source code from \textbf{appendix \ref{pycode}} to solve these equations numerically with an accuracy of $\pm 10^{-8}$ for each time step of the \textbf{Runge-Kutta 4th Order} (RK4) algorithm.}
+    \textit{These equations will be directly inputted into the python source code from \textbf{appendix \ref{pycode}} to solve these equations \textbf{numerically} with an accuracy of $\pm 10^{-8}$ for each time step of the \textbf{Runge-Kutta 4th Order} (RK4) algorithm.}
+           
+	\textit{\textbf{Note}: The numerical value of each time step involved in the simulation is $10^{-4}$ of a second.}
            
 \section{\textit{Drag Equation}}
             
@@ -33,25 +35,25 @@
             
         $$F_D = \frac{1}{2}\rho v^2C_DA$$
            
-    \textit{Where $F_D$ is the Air/Fluid resistance between the mass and the fluid, $\rho$ is the density of the fluid, v is the speed of the object relative to the fluid, $C_D$ is velocity decay constant (damping constant) and A is the cross sectional area.}
+    \textit{Where $F_D$ is the \textbf{Air/Fluid resistance} between the mass and the fluid, $\rho$ is the \textbf{density of the fluid}, v is the \textbf{speed of the object} relative to the fluid, $C_D$ is \textbf{velocity decay constant} (damping constant) and A is the \textbf{cross sectional area}.}
             
-    \textit{But as the fluid medium that we are dealing with is simply atmospheric air at $25^\circ$ and at 1 atm pressure, $\rho = 1.1839 kg/m^3$. Also that, the physical nature of the mass that we are dealing with is spherical, therefore $C_D = 0.47$ and $A = \pi r^2$.}
+    \textit{But as the fluid medium that we are dealing with is simply \textbf{atmospheric air} at $25^\circ$ and at 1 atm pressure, $\rho = 1.1839 kg/m^3$. Also that, the physical nature of the mass that we are dealing with is \textbf{spherical}, therefore $C_D = 0.47$ and $A = \pi r^2$.}
             
     \textit{Therefore, we have,}
             
         $$F_D = \pi\cdot\frac{432165}{10^{6}}\cdot r^2v^2$$
             
-\section{\textit{Stokes's Law Equation}}
+\section{\textit{Stokes Law Equation}}
             
     \textit{We know that,}
             
         $$F_D = 6\pi\mu Rv_D$$
             
-    \textit{Where $F_D$ is the Air/Fluid resistance between the mass and the fluid, $\mu$ is the dynamic viscosity of the fluid, R is the radius of the mass and $v_D$ is the flow velocity relative to the mass.}
+    \textit{Where $F_D$ is the \textbf{Air/Fluid resistance} between the mass and the fluid, $\mu$ is the \textbf{dynamic viscosity} of the fluid, R is the \textbf{radius} of the mass and $v_D$ is the \textbf{flow velocity} relative to the mass.}
             
-    \textit{But as the fluid medium that we are dealing with is simply atmospheric air at $25^\circ$ and at 1 atm pressure, $\mu = 18.6 \mu P\cdot s = 1.86 \times 10^{-5} P\cdot s$.}
+    \textit{But as the fluid medium that we are dealing with is simply \textbf{atmospheric air} at $25^\circ$ and at 1 atm pressure, $\mu = 18.6 \mu P\cdot s = 1.86 \times 10^{-5} P\cdot s$.}
             
-    \textit{Also with close observation it can be inferred that the magnitude of flow velocity relative to the mass is the same as the magnitude of the absolute velocity of the system. Therefore using Newtonian vector definition, we define,}
+    \textit{Also with close observation it can be inferred that the magnitude of \textbf{flow velocity} relative to the mass is the same as the magnitude of the \textbf{absolute velocity} of the system. Therefore using \textbf{Newtonian vector} definition, we define,}
             
         $$v = \sqrt{(\ddot{x})^2 + (\ddot{\theta})^2}$$
         
@@ -73,7 +75,7 @@
                 
             $$\omega_r = \sqrt{\frac{k}{m}}$$
                 
-        \textit{With observation, it can be inferred that, radial frequency remains constant whatsoever in the whole system.}
+        \textit{With observation, it can be inferred that, radial frequency remains constant whatsoever in the whole system for a particular case when m is a constant.}
             
     \subsection{\textit{Angular frequency}}
                 
