@@ -60,7 +60,16 @@
             
     \textit{Where R or D is the Rayleigh dissipation function which is a function used to handle and model the effects of velocity-proportional frictional forces in Lagrangian mechanics, where $C_D$ is the velocity decay constant (damping constant) and $\sum_{i=0}^n v^2_i$ is the sum of all velocities squared in all degrees of freedom pertaining to a mechanical system with n being the number of degrees of freedom in the system.}
 		
-	\textit{\textbf{Note}: An alternate representation could be also used to represent $C_D$ in the form of a $n \times n$ matrix.}    
+	\textit{\textbf{Note}: An alternate representation could be also used to represent $C_D$ in the form of a $n \times n$ matrix. Mathematically,}
+            
+		\textit{C_D =}
+        \begin{bmatrix}
+		k_i & 0 & 0 & \cdots & 0 \\
+		0 & k_j & 0 & \cdots & 0 \\
+		0 & 0 & k_k & \cdots & 0\\
+		\vdots & \vdots & \vdots & \ddots & 0 \\
+		0 & 0 & 0 & 0 & k_n \\
+		\end{bmatrix}
             
 \section{\textit{Stroke's Law}}\label{slaw}
             
@@ -85,6 +94,8 @@
     \textit{Also interestingly that for any two successive peaks of a graphical representation of any parameter versus time employed in this investigation, if we define,}
             
         $$\delta = \ln{\left(\frac{x_n}{x_{n + 1}}\right)}$$
+            
+    \textit{For a graphical representation of any parameter employed in this investigation.}
             
     \textit{Then,}
             
