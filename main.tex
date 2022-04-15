@@ -67,9 +67,14 @@
 \renewcommand{\bibname}{\textit{Bibliography}}
 \renewcommand{\listfigurename}{\textit{List of Figures}\hline}
 \renewcommand{\listtablename}{\textit{List of Tables}\hline}
+%\renewcommand{\chapter}{\chapter\vspace{-2cm}}
 %\renewcommand{\appendixname}{\textit{Appendices}}
 
 \nocite{*}
+
+\titleformat{\chapter}[display]   
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}   
+\titlespacing*{\chapter}{0pt}{20pt}{10pt}
 
 \titleformat{\chapter}{\huge\bfseries}{\thechapter}{0.5em}{\huge}
 \makeatletter
@@ -205,7 +210,7 @@
 
 \appendixpage
 
-\clearpage
+%\clearpage
 
 \import{Appendix}{appdix}
 
