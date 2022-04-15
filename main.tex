@@ -31,6 +31,17 @@
 \usepackage{xpatch}
 \usepackage{mathptmx}
 %\usepackage{sectsty,lmodern}
+%\setlength{\baselineskip}{1.6}
+\usepackage{indentfirst}
+\usepackage{atbegshi}
+%\bibliographystyle{plain}
+\usepackage{multibib}
+\newcites{WC, Bib}{Works Cited, Bibliography}
+%\usepackage{multibbl}
+%\newbibliography{Works Cited}
+%\newbibliography{Bibliography}
+\usepackage{bibtopic}
+%\pagestyle{myheadings}
 
 
 
@@ -69,6 +80,7 @@
 \renewcommand{\contentsname}{\textit{Contents}\hline}
 %\renewcommand{\bibname}{\textit{Bibliography}}
 %\renewcommand{\bibname}{\textit{Works Cited}}
+%	\renewcommand{\bibname}{{Works Cited}, {Bibliography}}
 \renewcommand{\bibname}{{Works Cited}}
 \renewcommand{\listfigurename}{\textit{List of Figures}\hline}
 \renewcommand{\listtablename}{\textit{List of Tables}\hline}
@@ -134,6 +146,12 @@
 %\begin{abstract}
 %    \import{Sections}{Abstract}
 %\end{abstract}
+
+
+
+%\setlength{\baselineskip}{1.6}
+
+\setlength{\parindent}{20pt}
 
 
 
@@ -223,7 +241,29 @@
         
 \clearpage
 
-\import{Works Cited}{Bib}
+%\import{Works Cited}{Bib}
+
+\import{Works Cited}{WC}
+
+%\bibliographyWC{WC}
+
+%\bibliography{Works Cited}{WC}{Works Cited}
+
+%\begin{btSect}{WC}
+%\section{Works Cited}
+%\btPrintCited
+%\end{btSect}
+
+\import{Works Cited}{Bibv2}
+
+%\bibliographyBib{Bibv2}
+
+%\begin{btSect}{Bibv2}
+%\section{Bibliography}
+%\btPrintCited
+%\end{btSect}
+
+%\bibliography{Bibliography}{Bibv2}{Bibliography}
 
 
 \clearpage

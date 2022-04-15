@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  4 MAR 2022 10:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  9 MAR 2022 08:58
 entering extended mode
 **./main.tex
 (main.tex
@@ -1262,11 +1262,122 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-23.
- (C:\MikTek\tex/latex/psnfss\ot1ptm.fd
+(C:\MikTek\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\MikTek\tex/latex/multibib\multibib.sty
+Package: multibib 2008/12/10 v1.4 Multiple bibliographies for one document.
+\mb@biblabelwidth=\count333
+)
+\@auxoutWC=\write4
+ (WC.aux)
+\openout4 = `WC.aux'.
+
+\@auxout Bib=\write5
+ (Bib.aux)
+\openout5 = `Bib.aux'.
+
+
+(C:\MikTek\tex/latex/bibtopic\bibtopic.sty
+Package: bibtopic 2006/09/08 v1.1a Sectioned Bibliographies
+ (C:\MikTek\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@btauxfile=\count334
+\bt@infilea=\read4
+\bt@infileb=\read5
+\bt@outfile=\write6
+\bt@tempboxa=\box78
+) (Front matter/Title Page v4.tex
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4     \begin{center}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.16         \hline
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/it' undefined
+(Font)              using `OT1/cmr/bx/it' instead on input line 20.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/it' undefined
+(Font)              using `OT1/cmr/bx/it' instead on input line 28.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/it' undefined
+(Font)              using `OT1/cmr/bx/it' instead on input line 38.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/it' undefined
+(Font)              using `OT1/cmr/bx/it' instead on input line 52.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.68         \hline
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 7
+2.
+(C:\MikTek\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.72 \end{titlepage}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.72 \end{titlepage}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+
+\providecommand \oddpage@label [2]{}
+{C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+! Undefined control sequence.
+l.78 \frontmatter
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (main.aux
+
+LaTeX Warning: Label `' multiply defined.
+
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -1621,44 +1732,44 @@ LaTeX Warning: Label `' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 123.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 135.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
-23.
+35.
  (C:\MikTek\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    ... okay on input line 135.
 
 (C:\MikTek\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count333
+\scratchcounter=\count335
 \scratchdimen=\dimen318
-\scratchbox=\box78
-\nofMPsegments=\count334
-\nofMParguments=\count335
+\scratchbox=\box79
+\nofMPsegments=\count336
+\nofMParguments=\count337
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count336
+\MPscratchCnt=\count338
 \MPscratchDim=\dimen319
-\MPnumerator=\count337
-\makeMPintoPDFobject=\count338
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
 \everyMPtoPDFconversion=\toks51
 ) (C:\MikTek\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1668,7 +1779,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\MikTek\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 123.
+Package hyperref Info: Link coloring OFF on input line 135.
 
 (C:\MikTek\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1679,16 +1790,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (C:\MikTek\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count339
+\c@section@level=\count341
 )
-LaTeX Info: Redefining \ref on input line 123.
-LaTeX Info: Redefining \pageref on input line 123.
-LaTeX Info: Redefining \nameref on input line 123.
+LaTeX Info: Redefining \ref on input line 135.
+LaTeX Info: Redefining \pageref on input line 135.
+LaTeX Info: Redefining \nameref on input line 135.
  (main.out) (main.out)
-\@outlinefile=\write4
-\openout4 = `main.out'.
+\@outlinefile=\write7
+\openout7 = `main.out'.
 
-\c@lstlisting=\count340
+\c@lstlisting=\count342
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
@@ -1700,55 +1811,85 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 
+l.138 
       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 126.
+ 138.
 (C:\MikTek\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 126.
+ 138.
 
 (C:\MikTek\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 126.
+ 138.
 
 (C:\MikTek\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 126.
+ 138.
 
 (C:\MikTek\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 138.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 138.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 138.
 
 
 LaTeX Warning: No \author given.
 
-[1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138 
+      
+LaTeX Info: Completed page discarded.
 
-{C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.139 \tableofcontents
+                      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+(main.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 ...splacement versus Time}}{16}{section.10.2}
+                                                  % [1] [2])
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+ [3]
 Chapter 1.
 (Sections/Introduction.tex)
 Chapter 2.
 (Sections/Aim.tex)
-Overfull \hbox (3.43996pt too wide) in paragraph at lines 1--147
-\OT1/ptm/m/n/12 To \OT1/ptm/b/n/12 collect experimental raw data \OT1/ptm/m/n/1
-2 relating to the variation in \OT1/ptm/b/n/12 radial displacement\OT1/ptm/m/n/
-12 ,
+Overfull \hbox (23.43996pt too wide) in paragraph at lines 1--165
+[]\OT1/ptm/m/n/12 To \OT1/ptm/b/n/12 collect experimental raw data \OT1/ptm/m/n
+/12 relating to the variation in \OT1/ptm/b/n/12 radial displacement\OT1/ptm/m/
+n/12 ,
  []
 
 Chapter 3.
@@ -1764,26 +1905,15 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.6 
-     [1
 
-]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-
-Overfull \hbox (38.32442pt too wide) in paragraph at lines 13--14
-[]\OT1/ptm/m/n/12 The Lagrange's equation of second kind or the Lagrange-Euler 
-Equation is mathematically
+Overfull \hbox (8.17647pt too wide) in paragraph at lines 5--6
+[]\OT1/ptm/m/n/12 Firstly, we must know that the fundamental concepts of \OT1/p
+tm/b/n/12 Lagrangian mechanics
  []
 
+[4
+
+]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -1794,15 +1924,9 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (3.8246pt too wide) in paragraph at lines 21--22
-\OT1/ptm/m/n/12 According to our specific system that we are investigating, we 
-have two generalized
- []
-
-
-Overfull \hbox (1.51982pt too wide) in paragraph at lines 25--26
-[]\OT1/ptm/m/n/12 x represents the \OT1/ptm/b/n/12 extension in the spring comp
-onent from the equilibrium length
+Overfull \hbox (23.8246pt too wide) in paragraph at lines 21--22
+[]\OT1/ptm/m/n/12 According to our specific system that we are investigating, w
+e have two generalized
  []
 
 ! Missing number, treated as zero.
@@ -1814,6 +1938,12 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
+
+Overfull \hbox (18.1848pt too wide) in paragraph at lines 33--34
+[]\OT1/ptm/m/n/12 As there isn't any other non-conservative force, the net tota
+l sum of the Lagrange's
+ []
+
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -1823,7 +1953,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[2]
+[5]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -1834,12 +1964,13 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (24.2601pt too wide) in paragraph at lines 61--62
-\OT1/ptm/m/n/12 handle and model the effects of \OT1/ptm/b/n/12 velocity-propor
-tional frictional forces in Lagrangian
+Overfull \hbox (17.21835pt too wide) in paragraph at lines 61--62
+\OT1/ptm/b/n/12 Lagrangian mechanics\OT1/ptm/m/n/12 , where $\OML/ztmcm/m/it/12
+ C[]$ \OT1/ptm/m/n/12 is the \OT1/ptm/b/n/12 velocity decay constant \OT1/ptm/m
+/n/12 (damping constant)
  []
 
-[3]
+[6]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -1868,12 +1999,6 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-
-Overfull \hbox (34.63934pt too wide) in paragraph at lines 78--79
-\OT1/ptm/b/n/12 spherical objects \OT1/ptm/m/n/12 with very \OT1/ptm/b/n/12 sma
-ll Reynolds numbers \OT1/ptm/m/n/12 in a viscous fluid. Mathematically, 
- []
-
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -1884,15 +2009,21 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (1.97556pt too wide) in paragraph at lines 88--89
-\OT1/ptm/m/n/12 The system exhibits an interesting feature, that of constant lo
-garithmic decrements,
+Overfull \hbox (10.21614pt too wide) in paragraph at lines 94--95
+[]\OT1/ptm/m/n/12 Also interestingly that for any two successive peaks of a gra
+phical representation
  []
 
-[4]
-Overfull \hbox (1.38911pt too wide) in paragraph at lines 104--105
-[]\OT1/ptm/m/n/12 With the above findings and definitions, we can create an exp
-ression for percentage
+[7]
+Overfull \hbox (0.53275pt too wide) in paragraph at lines 98--99
+[]\OT1/ptm/m/n/12 For a graphical representation of any parameter employed in t
+his investigation. 
+ []
+
+
+Overfull \hbox (8.09306pt too wide) in paragraph at lines 108--109
+[]\OT1/ptm/m/n/12 Consequently we can find an expression for $\OML/ztmcm/m/it/1
+2 $ \OT1/ptm/m/n/12 in terms of \OT1/ptm/b/n/12 percentage overshoot
  []
 
 ! Missing number, treated as zero.
@@ -1912,9 +2043,9 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
  (C:\MikTek\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-[5])
+[8])
 Chapter 6.
-(Sections/Variables.tex)
+(Sections/Variables.tex [9])
 Chapter 7.
 (Sections/Procedure.tex
 \openout3 = `main.auxlock'.
@@ -1981,9 +2112,15 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no ] in font nullfont!
 Missing character: There is no ; in font nullfont!
-[6])
+
+Overfull \hbox (0.14813pt too wide) in paragraph at lines 52--53
+[]\OT1/ptm/m/n/12 Using the materials specified in chapter []5[], arrange the c
+omponents as specified
+ []
+
+)
 Chapter 8.
-(Sections/Initial Conditions.tex)
+(Sections/Initial Conditions.tex [10])
 Chapter 9.
 (Sections/Equation.tex
 ! Missing number, treated as zero.
@@ -1995,13 +2132,13 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[7]
-Overfull \hbox (9.21233pt too wide) in paragraph at lines 28--29
-[]\OT1/ptm/m/n/12 These equations will be directly inputted into the python sou
-rce code from \OT1/ptm/b/n/12 appendix
+
+Overfull \hbox (11.14082pt too wide) in paragraph at lines 10--11
+[]\OT1/ptm/m/n/12 According to our specific case that we are investigating, we 
+have two generalized
  []
 
-[8]
+[11]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2020,7 +2157,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[9]
+[12]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2040,9 +2177,9 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (18.4882pt too wide) in paragraph at lines 78--79
-[]\OT1/ptm/m/n/12 With observation, it can be inferred that, radial frequency r
-emains constant whatsoever
+Overfull \hbox (8.09254pt too wide) in paragraph at lines 74--75
+[]\OT1/ptm/m/n/12 Radial frequency is defined as the number of oscillations of 
+the radial movement
  []
 
 ! Missing number, treated as zero.
@@ -2055,11 +2192,12 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (4.74887pt too wide) in paragraph at lines 82--83
-\OT1/ptm/m/n/12 Angular frequency is defined as the number of oscillations of t
-he angular movement
+Overfull \hbox (45.19994pt too wide) in paragraph at lines 82--83
+\OT1/ptm/m/n/12 movement (Pendulum component of the system) per second. Physica
+lly and mathematically
  []
 
+[13]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2069,7 +2207,6 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[10]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2079,7 +2216,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[11])
+[14])
 Chapter 10.
 (Sections/Experimental Data Mod 2.tex
 ! Missing number, treated as zero.
@@ -2096,13 +2233,6 @@ Overfull \hbox (26.38391pt too wide) in paragraph at lines 5--35
  [][] 
  []
 
-
-Overfull \hbox (15.1994pt too wide) in paragraph at lines 37--38
-\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : Mass is in \OT1/ptm/b/n/12 kilograms\OT1/
-ptm/m/n/12 , Time is in \OT1/ptm/b/n/12 seconds\OT1/ptm/m/n/12 , and the values
- of radial displacement
- []
-
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2117,13 +2247,7 @@ Overfull \hbox (59.93573pt too wide) in paragraph at lines 43--73
  [][] 
  []
 
-[12]
-Overfull \hbox (23.86353pt too wide) in paragraph at lines 75--76
-\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : Mass is in \OT1/ptm/b/n/12 kilograms\OT1/
-ptm/m/n/12 , Time is in \OT1/ptm/b/n/12 seconds\OT1/ptm/m/n/12 , and the values
- of angular displacement
- []
-
+[15]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2138,14 +2262,7 @@ Overfull \hbox (25.40009pt too wide) in paragraph at lines 81--111
  [][] 
  []
 
-
-Overfull \hbox (8.33624pt too wide) in paragraph at lines 113--114
-\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : Mass is in \OT1/ptm/b/n/12 kilograms\OT1/
-ptm/m/n/12 , Time is in \OT1/ptm/b/n/12 seconds\OT1/ptm/m/n/12 , and the values
- of angular frequency
- []
-
-[13]
+[16]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2177,13 +2294,7 @@ Overfull \hbox (64.38795pt too wide) in paragraph at lines 5--35
  [][] 
  []
 
-[14]
-Overfull \hbox (15.1994pt too wide) in paragraph at lines 37--38
-\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : Mass is in \OT1/ptm/b/n/12 kilograms\OT1/
-ptm/m/n/12 , Time is in \OT1/ptm/b/n/12 seconds\OT1/ptm/m/n/12 , and the values
- of radial displacement
- []
-
+[17]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2198,13 +2309,7 @@ Overfull \hbox (97.92764pt too wide) in paragraph at lines 43--73
  [][] 
  []
 
-[15]
-Overfull \hbox (23.86353pt too wide) in paragraph at lines 75--76
-\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : Mass is in \OT1/ptm/b/n/12 kilograms\OT1/
-ptm/m/n/12 , Time is in \OT1/ptm/b/n/12 seconds\OT1/ptm/m/n/12 , and the values
- of angular displacement
- []
-
+[18]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2219,14 +2324,7 @@ Overfull \hbox (79.40009pt too wide) in paragraph at lines 81--111
  [][] 
  []
 
-
-Overfull \hbox (8.33624pt too wide) in paragraph at lines 113--114
-\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : Mass is in \OT1/ptm/b/n/12 kilograms\OT1/
-ptm/m/n/12 , Time is in \OT1/ptm/b/n/12 seconds\OT1/ptm/m/n/12 , and the values
- of angular frequency
- []
-
-[16]
+[19]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2252,17 +2350,18 @@ ent\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 angular frequency \OT1/ptm/m/n/12 and \OT1
 /ptm/b/n/12 absolute frequency
  []
 
-[17]
-Overfull \hbox (7.38054pt too wide) in paragraph at lines 3--4
-\OT1/ztmcm/m/n/12 0$ \OT1/ptm/m/n/12 to $\OML/ztmcm/m/it/12 t \OT1/ztmcm/m/n/12
- = 20$ \OT1/ptm/m/n/12 seconds divided by the number of observations, for \OT1/
-ptm/b/n/12 radial displacement\OT1/ptm/m/n/12 ,
+[20]
+Overfull \hbox (9.14006pt too wide) in paragraph at lines 3--4
+\OT1/ptm/b/n/12 displacement\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 angular displacem
+ent\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 angular frequency \OT1/ptm/m/n/12 and \OT1
+/ptm/b/n/12 absolute frequency
  []
 
 
-Overfull \hbox (4.5083pt too wide) in paragraph at lines 7--8
-\OML/ztmcm/m/it/12  []$ \OT1/ptm/m/n/12 are the \OT1/ptm/b/n/12 percentage accu
-racy \OT1/ptm/m/n/12 of the experimental values of radial displacement,
+Overfull \hbox (27.83214pt too wide) in paragraph at lines 7--8
+\OT1/ztmcm/m/n/12 100 \OMS/ztmcm/m/n/12  \OML/ztmcm/m/it/12  []$ \OT1/ptm/m/n/
+12 are the \OT1/ptm/b/n/12 percentage accuracy \OT1/ptm/m/n/12 of the experimen
+tal values of radial displacement,
  []
 
 ! Missing number, treated as zero.
@@ -2283,7 +2382,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[18]
+[21]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2311,7 +2410,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[19]
+[22]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2330,7 +2429,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[20]
+[23]
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2358,16 +2457,16 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[21])
+[24])
 Chapter 14.
 (Sections/Observations from Derived Data.tex
-Overfull \hbox (16.952pt too wide) in paragraph at lines 1--2
-\OT1/ptm/m/n/12 Upon close observation of the \OT1/ptm/b/n/12 drag versus time 
-\OT1/ptm/m/n/12 it is evident that, the drag periodically
+Overfull \hbox (18.1157pt too wide) in paragraph at lines 1--2
+\OT1/ptm/m/n/12 periodically decreases with decrease in mass and increases in a
+mplitude and frequency
  []
 
 
-Overfull \hbox (1.97556pt too wide) in paragraph at lines 5--6
+Overfull \hbox (21.97556pt too wide) in paragraph at lines 5--6
 []\OT1/ptm/m/n/12 The system exhibits an interesting feature, that of constant 
 logarithmic decrements,
  []
@@ -2394,7 +2493,7 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 (Sections/./ExpGraph.tex
-<ExpPictures/m1.png, id=440, 462.528pt x 346.896pt>
+<ExpPictures/m1.png, id=538, 462.528pt x 346.896pt>
 File: ExpPictures/m1.png Graphic file (type png)
 <use ExpPictures/m1.png>
 Package pdftex.def Info: ExpPictures/m1.png  used on input line 3.
@@ -2404,8 +2503,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-[22]
-<ExpPictures/m2.png, id=446, 462.528pt x 346.896pt>
+[25]
+<ExpPictures/m2.png, id=544, 462.528pt x 346.896pt>
 File: ExpPictures/m2.png Graphic file (type png)
 <use ExpPictures/m2.png>
 Package pdftex.def Info: ExpPictures/m2.png  used on input line 10.
@@ -2415,8 +2514,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 10--11
  [][] 
  []
 
-[23 <./ExpPictures/m1.png>]
-<ExpPictures/m3.png, id=453, 462.528pt x 346.896pt>
+[26 <./ExpPictures/m1.png>]
+<ExpPictures/m3.png, id=551, 462.528pt x 346.896pt>
 File: ExpPictures/m3.png Graphic file (type png)
 <use ExpPictures/m3.png>
 Package pdftex.def Info: ExpPictures/m3.png  used on input line 17.
@@ -2426,8 +2525,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 17--18
  [][] 
  []
 
-[24 <./ExpPictures/m2.png>]
-<ExpPictures/m4.png, id=461, 462.528pt x 346.896pt>
+[27 <./ExpPictures/m2.png>]
+<ExpPictures/m4.png, id=558, 462.528pt x 346.896pt>
 File: ExpPictures/m4.png Graphic file (type png)
 <use ExpPictures/m4.png>
 Package pdftex.def Info: ExpPictures/m4.png  used on input line 24.
@@ -2437,8 +2536,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 24--25
  [][] 
  []
 
-[25 <./ExpPictures/m3.png>]
-<ExpPictures/m5.png, id=468, 462.528pt x 346.896pt>
+[28 <./ExpPictures/m3.png>]
+<ExpPictures/m5.png, id=565, 462.528pt x 346.896pt>
 File: ExpPictures/m5.png Graphic file (type png)
 <use ExpPictures/m5.png>
 Package pdftex.def Info: ExpPictures/m5.png  used on input line 31.
@@ -2448,8 +2547,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 31--32
  [][] 
  []
 
-[26 <./ExpPictures/m4.png>]
-<ExpPictures/m6.png, id=475, 462.528pt x 346.896pt>
+[29 <./ExpPictures/m4.png>]
+<ExpPictures/m6.png, id=572, 462.528pt x 346.896pt>
 File: ExpPictures/m6.png Graphic file (type png)
 <use ExpPictures/m6.png>
 Package pdftex.def Info: ExpPictures/m6.png  used on input line 38.
@@ -2459,8 +2558,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 38--39
  [][] 
  []
 
-[27 <./ExpPictures/m5.png>]
-<ExpPictures/m7.png, id=482, 462.528pt x 346.896pt>
+[30 <./ExpPictures/m5.png>]
+<ExpPictures/m7.png, id=580, 462.528pt x 346.896pt>
 File: ExpPictures/m7.png Graphic file (type png)
 <use ExpPictures/m7.png>
 Package pdftex.def Info: ExpPictures/m7.png  used on input line 45.
@@ -2470,8 +2569,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
-[28 <./ExpPictures/m6.png>]
-<ExpPictures/m8.png, id=489, 462.528pt x 346.896pt>
+[31 <./ExpPictures/m6.png>]
+<ExpPictures/m8.png, id=587, 462.528pt x 346.896pt>
 File: ExpPictures/m8.png Graphic file (type png)
 <use ExpPictures/m8.png>
 Package pdftex.def Info: ExpPictures/m8.png  used on input line 52.
@@ -2481,8 +2580,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 52--53
  [][] 
  []
 
-[29 <./ExpPictures/m7.png>]
-<ExpPictures/m9.png, id=496, 462.528pt x 346.896pt>
+[32 <./ExpPictures/m7.png>]
+<ExpPictures/m9.png, id=594, 462.528pt x 346.896pt>
 File: ExpPictures/m9.png Graphic file (type png)
 <use ExpPictures/m9.png>
 Package pdftex.def Info: ExpPictures/m9.png  used on input line 59.
@@ -2492,8 +2591,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 59--60
  [][] 
  []
 
-[30 <./ExpPictures/m8.png>]
-<ExpPictures/m10.png, id=504, 462.528pt x 346.896pt>
+[33 <./ExpPictures/m8.png>]
+<ExpPictures/m10.png, id=601, 462.528pt x 346.896pt>
 File: ExpPictures/m10.png Graphic file (type png)
 <use ExpPictures/m10.png>
 Package pdftex.def Info: ExpPictures/m10.png  used on input line 66.
@@ -2503,7 +2602,7 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 66--67
  [][] 
  []
 
-[31 <./ExpPictures/m9.png>])
+[34 <./ExpPictures/m9.png>])
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2514,7 +2613,7 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 (Sections/./SimGraph.tex
-<SimPictures/m1.png, id=511, 493.6041pt x 478.4274pt>
+<SimPictures/m1.png, id=608, 493.6041pt x 478.4274pt>
 File: SimPictures/m1.png Graphic file (type png)
 <use SimPictures/m1.png>
 Package pdftex.def Info: SimPictures/m1.png  used on input line 3.
@@ -2524,8 +2623,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-[32 <./ExpPictures/m10.png>]
-<SimPictures/m2.png, id=518, 462.528pt x 346.896pt>
+[35 <./ExpPictures/m10.png>]
+<SimPictures/m2.png, id=615, 462.528pt x 346.896pt>
 File: SimPictures/m2.png Graphic file (type png)
 <use SimPictures/m2.png>
 Package pdftex.def Info: SimPictures/m2.png  used on input line 10.
@@ -2535,8 +2634,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 10--11
  [][] 
  []
 
-[33 <./SimPictures/m1.png>]
-<SimPictures/m3.png, id=525, 493.6041pt x 478.4274pt>
+[36 <./SimPictures/m1.png>]
+<SimPictures/m3.png, id=623, 493.6041pt x 478.4274pt>
 File: SimPictures/m3.png Graphic file (type png)
 <use SimPictures/m3.png>
 Package pdftex.def Info: SimPictures/m3.png  used on input line 17.
@@ -2546,8 +2645,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 17--18
  [][] 
  []
 
-[34 <./SimPictures/m2.png>]
-<SimPictures/m4.png, id=532, 493.6041pt x 478.4274pt>
+[37 <./SimPictures/m2.png>]
+<SimPictures/m4.png, id=630, 493.6041pt x 478.4274pt>
 File: SimPictures/m4.png Graphic file (type png)
 <use SimPictures/m4.png>
 Package pdftex.def Info: SimPictures/m4.png  used on input line 24.
@@ -2557,8 +2656,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 24--25
  [][] 
  []
 
-[35 <./SimPictures/m3.png>]
-<SimPictures/m5.png, id=539, 462.528pt x 346.896pt>
+[38 <./SimPictures/m3.png>]
+<SimPictures/m5.png, id=637, 462.528pt x 346.896pt>
 File: SimPictures/m5.png Graphic file (type png)
 <use SimPictures/m5.png>
 Package pdftex.def Info: SimPictures/m5.png  used on input line 31.
@@ -2568,8 +2667,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 31--32
  [][] 
  []
 
-[36 <./SimPictures/m4.png>]
-<SimPictures/m6.png, id=547, 462.528pt x 346.896pt>
+[39 <./SimPictures/m4.png>]
+<SimPictures/m6.png, id=644, 462.528pt x 346.896pt>
 File: SimPictures/m6.png Graphic file (type png)
 <use SimPictures/m6.png>
 Package pdftex.def Info: SimPictures/m6.png  used on input line 38.
@@ -2579,8 +2678,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 38--39
  [][] 
  []
 
-[37 <./SimPictures/m5.png>]
-<SimPictures/m7.png, id=554, 462.528pt x 346.896pt>
+[40 <./SimPictures/m5.png>]
+<SimPictures/m7.png, id=651, 462.528pt x 346.896pt>
 File: SimPictures/m7.png Graphic file (type png)
 <use SimPictures/m7.png>
 Package pdftex.def Info: SimPictures/m7.png  used on input line 45.
@@ -2590,8 +2689,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
-[38 <./SimPictures/m6.png>]
-<SimPictures/m8.png, id=561, 462.528pt x 346.896pt>
+[41 <./SimPictures/m6.png>]
+<SimPictures/m8.png, id=658, 462.528pt x 346.896pt>
 File: SimPictures/m8.png Graphic file (type png)
 <use SimPictures/m8.png>
 Package pdftex.def Info: SimPictures/m8.png  used on input line 52.
@@ -2601,8 +2700,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 52--53
  [][] 
  []
 
-[39 <./SimPictures/m7.png>]
-<SimPictures/m9.png, id=568, 462.528pt x 346.896pt>
+[42 <./SimPictures/m7.png>]
+<SimPictures/m9.png, id=666, 462.528pt x 346.896pt>
 File: SimPictures/m9.png Graphic file (type png)
 <use SimPictures/m9.png>
 Package pdftex.def Info: SimPictures/m9.png  used on input line 59.
@@ -2612,8 +2711,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 59--60
  [][] 
  []
 
-[40 <./SimPictures/m8.png>]
-<SimPictures/m10.png, id=575, 462.528pt x 346.896pt>
+[43 <./SimPictures/m8.png>]
+<SimPictures/m10.png, id=673, 462.528pt x 346.896pt>
 File: SimPictures/m10.png Graphic file (type png)
 <use SimPictures/m10.png>
 Package pdftex.def Info: SimPictures/m10.png  used on input line 66.
@@ -2623,8 +2722,8 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 66--67
  [][] 
  []
 
-[41 <./SimPictures/m9.png>])
-Overfull \hbox (2.01216pt too wide) in paragraph at lines 16--17
+[44 <./SimPictures/m9.png>])
+Overfull \hbox (22.01216pt too wide) in paragraph at lines 16--17
 []\OT1/ptm/m/n/12 This \OT1/ptm/b/n/12 contradicts \OT1/ptm/m/n/12 the \OT1/ptm
 /b/n/12 initial hypothesis \OT1/ptm/m/n/12 laid out prior to beginning the inve
 stigation
@@ -2636,7 +2735,7 @@ Overfull \hbox (6.43979pt too wide) in paragraph at lines 18--19
 tm/b/n/12 frequency \OT1/ptm/m/n/12 of the parameters
  []
 
-[42 <./SimPictures/m10.png>]) (Sections/Numerical Analysis.tex
+[45 <./SimPictures/m10.png>]) (Sections/Numerical Analysis.tex
 ! Missing number, treated as zero.
 <to be read again> 
                    p
@@ -2656,9 +2755,9 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (1.71312pt too wide) in paragraph at lines 7--8
-[]\OT1/ptm/m/n/12 Due to viscous underdamped motion, it gains energy and moment
-um and preserves
+Overfull \hbox (18.43547pt too wide) in paragraph at lines 5--6
+[]\OT1/ptm/m/n/12 We initially defined and conditionalized the initial value of
+ the radial displacement
  []
 
 ! Missing number, treated as zero.
@@ -2671,15 +2770,9 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-Overfull \hbox (7.0996pt too wide) in paragraph at lines 11--12
-\OT1/ptm/m/n/12 We initially defined and conditionalized the initial value of t
-he angular displacement
- []
-
-
-Overfull \hbox (1.71312pt too wide) in paragraph at lines 13--14
-[]\OT1/ptm/m/n/12 Due to viscous underdamped motion, it gains energy and moment
-um and preserves
+Overfull \hbox (27.0996pt too wide) in paragraph at lines 11--12
+[]\OT1/ptm/m/n/12 We initially defined and conditionalized the initial value of
+ the angular displacement
  []
 
 ! Missing number, treated as zero.
@@ -2700,7 +2793,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-[43])
+[46])
 Chapter 16.
 (Sections/Evaluation.tex
 Overfull \hbox (1.11163pt too wide) detected at line 7
@@ -2712,17 +2805,23 @@ Overfull \hbox (18.58356pt too wide) detected at line 9
 \OML/ztmcm/m/it/12  [] \OT1/ztmcm/m/n/12 = [] = [] = []
  []
 
-[44])
-Chapter 17.
-(Sections/Limitations of Study.tex
-Overfull \hbox (24.54683pt too wide) in paragraph at lines 1--2
-\OT1/ptm/m/n/12 certain strict initial conditions and other conditions that mak
-e this system so constrained
+
+Overfull \hbox (6.10342pt too wide) in paragraph at lines 21--22
+\OT1/ptm/m/n/12 in calculating the experimental values of radial displacement, 
+angular displacement,
  []
 
-)
+[47])
+Chapter 17.
+(Sections/Limitations of Study.tex)
 Chapter 18.
-(Sections/Safety Measures.tex [45])
+(Sections/Safety Measures.tex
+Overfull \hbox (1.51645pt too wide) in paragraph at lines 3--4
+[]\OT1/ptm/m/n/12 The \OT1/ptm/b/n/12 safety measures \OT1/ptm/m/n/12 that were
+ taken during the experimentation as as follows: 
+ []
+
+[48])
 Chapter 19.
 (Sections/Sources of Error.tex)
 Chapter 20.
@@ -2734,85 +2833,1328 @@ ent\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 angular frequency \OT1/ptm/m/n/12 and \OT1
  []
 
 
-Overfull \hbox (39.37898pt too wide) in paragraph at lines 5--6
-[]\OT1/ptm/m/n/12 I have also shown the possible \OT1/ptm/b/n/12 uncertainties 
-in measurement \OT1/ptm/m/n/12 of the \OT1/ptm/b/n/12 radial displacement\OT1/p
-tm/m/n/12 ,
+Overfull \hbox (12.14006pt too wide) in paragraph at lines 5--6
+\OT1/ptm/b/n/12 displacement\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 angular displacem
+ent\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 angular frequency \OT1/ptm/m/n/12 and \OT1
+/ptm/b/n/12 absolute frequency\OT1/ptm/m/n/12 . 
  []
 
-) [46] [47] (main.aux)
+) [49] [50] (Works Cited/WC.tex
+Underfull \hbox (badness 1337) in paragraph at lines 15--16
+\OT1/ptm/m/n/12 2011. Massachusetts Institute of Technology: MIT OpenCourseWare
+,
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 21--22
+[]\OT1/ptm/m/n/12 Paulsson, Oskar. \OT1/ptm/m/it/12 The Rayleigh Dissipation Fu
+nction - Theory and
+ []
+
+) (Works Cited/Bibv2.tex
+Underfull \hbox (badness 2970) in paragraph at lines 11--12
+\OT1/ptm/m/n/12 of Periodic Motion in the Forced Spring-Pendulum." \OT1/ptm/m/i
+t/12 Proceedings:
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 11--12
+\OT1/ptm/m/n/12 391{408. JSTOR, []$\OT1/cmtt/m/n/12 www . jstor . org / stable 
+/ 52258$[]\OT1/ptm/m/n/12 . Accessed 2 Aug.
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 14--15
+[]\OT1/ptm/m/n/12 Craig, K. \Spring-Pendulum Dynamic System." \OT1/ptm/m/it/12 
+NYU Engineering\OT1/ptm/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]$\OT1/cmtt/m/n/12 engineering . nyu . edu / mechatronics / Control _ Lab / Cr
+iag / Craig _
+ []
+
+[51
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has b
+een already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.30 
+     ]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\OT1/ptm/m/n/12 Libretexts. \10.4: Rayleigh's Dissipation Function." \OT1/ptm
+/m/it/12 Physics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/ptm/m/it/12 LibreTexts\OT1/ptm/m/n/12 , 28 Feb. 2021, []$\OT1/cmtt/m/n/12 
+phys . libretexts . org / Bookshelves /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/cmtt/m/n/12 Classical _ Mechanics / \Variational _ Principles _ in _ Class
+ical _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/cmtt/m/n/12 Mechanics _ (Cline ) / \ 10 % 3A _ Nonconservative _ Systems /
+ 10 . 04 %
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 44--45
+[]\OT1/ptm/m/n/12 Pokorny, P. \Continuation of Periodic Solutions of Dissipativ
+e and
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 44--45
+\OT1/ptm/m/it/12 Problems in Engineering\OT1/ptm/m/n/12 , vol. 2009, 2009, pp. 
+1{15. Crossref,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\OT1/ptm/m/n/12 \Rayleigh Dissipation Function | Classical Mechanics |
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 47--48
+\OT1/ptm/m/n/12 LetThereBeMath |." \OT1/ptm/m/it/12 YouTube\OT1/ptm/m/n/12 , up
+loaded by Let there be math, 24
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 53--54
+[]\OT1/ptm/m/n/12 \Showcase of Lagrangian Mechanics Using an Elastic Pendulum."
+
+ []
+
+) [52] [53
+
+
+] (Appendix/appdix.tex (Appendix/./Python Source Codes.tex
+Appendix A.
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.5     \section{{Graphical Solution Codes}}
+                                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 7.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+[54] [55] [56
+
+] [57]
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.162     \section{{Path Animation Codes}}
+                                          
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+[58
+
+] [59] [60] [61
+
+] [62]) (Appendix/./Raw Experimental Data.tex
+Appendix B.
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.3 ...\section{{Radial Displacement versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RExpPictures/R/rm1.png, id=1174, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm1.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm1.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm1.png  used on input line 7.
+
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 7--8
+ [][] 
+ []
+
+[63]
+<Appendix/RExpPictures/R/rm2.png, id=1220, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm2.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm2.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm2.png  used on input line 14
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 14--15
+ [][] 
+ []
+
+[64 <./Appendix/RExpPictures/R/rm1.png>]
+<Appendix/RExpPictures/R/rm3.png, id=1227, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm3.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm3.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm3.png  used on input line 21
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 21--22
+ [][] 
+ []
+
+[65 <./Appendix/RExpPictures/R/rm2.png>]
+<Appendix/RExpPictures/R/rm5.png, id=1234, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm5.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm5.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm5.png  used on input line 28
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 28--29
+ [][] 
+ []
+
+[66 <./Appendix/RExpPictures/R/rm3.png>]
+File: Appendix/RExpPictures/R/rm5.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm5.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm5.png  used on input line 35
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 35--36
+ [][] 
+ []
+
+[67 <./Appendix/RExpPictures/R/rm5.png>]
+<Appendix/RExpPictures/R/rm6.png, id=1248, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm6.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm6.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm6.png  used on input line 42
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 42--43
+ [][] 
+ []
+
+[68]
+<Appendix/RExpPictures/R/rm7.png, id=1254, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm7.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm7.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm7.png  used on input line 49
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+[69 <./Appendix/RExpPictures/R/rm6.png>]
+<Appendix/RExpPictures/R/rm8.png, id=1261, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm8.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm8.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm8.png  used on input line 56
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 56--57
+ [][] 
+ []
+
+[70 <./Appendix/RExpPictures/R/rm7.png>]
+<Appendix/RExpPictures/R/rm9.png, id=1268, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/R/rm9.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm9.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm9.png  used on input line 63
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+[71 <./Appendix/RExpPictures/R/rm8.png>]
+<Appendix/RExpPictures/R/rm10.png, id=1275, 462.528pt x 363.5181pt>
+File: Appendix/RExpPictures/R/rm10.png Graphic file (type png)
+<use Appendix/RExpPictures/R/rm10.png>
+Package pdftex.def Info: Appendix/RExpPictures/R/rm10.png  used on input line 7
+0.
+(pdftex.def)             Requested size: 462.52686pt x 363.51721pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+[72 <./Appendix/RExpPictures/R/rm9.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.75 ...ection{{Angular Displacement versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RExpPictures/A/am1.png, id=1283, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am1.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am1.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am1.png  used on input line 79
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 79--80
+ [][] 
+ []
+
+[73 <./Appendix/RExpPictures/R/rm10.png>]
+<Appendix/RExpPictures/A/am2.png, id=1290, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am2.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am2.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am2.png  used on input line 86
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+[74 <./Appendix/RExpPictures/A/am1.png>]
+<Appendix/RExpPictures/A/am3.png, id=1297, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am3.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am3.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am3.png  used on input line 93
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 93--94
+ [][] 
+ []
+
+[75 <./Appendix/RExpPictures/A/am2.png>]
+<Appendix/RExpPictures/A/am4.png, id=1304, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am4.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am4.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am4.png  used on input line 10
+0.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+[76 <./Appendix/RExpPictures/A/am3.png>]
+<Appendix/RExpPictures/A/am5.png, id=1311, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am5.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am5.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am5.png  used on input line 10
+7.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 107--108
+ [][] 
+ []
+
+[77 <./Appendix/RExpPictures/A/am4.png>]
+<Appendix/RExpPictures/A/am6.png, id=1318, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am6.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am6.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am6.png  used on input line 11
+4.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
+
+[78 <./Appendix/RExpPictures/A/am5.png>]
+<Appendix/RExpPictures/A/am7.png, id=1326, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am7.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am7.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am7.png  used on input line 12
+1.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 121--122
+ [][] 
+ []
+
+[79 <./Appendix/RExpPictures/A/am6.png>]
+<Appendix/RExpPictures/A/am8.png, id=1333, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am8.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am8.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am8.png  used on input line 12
+8.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+[80 <./Appendix/RExpPictures/A/am7.png>]
+<Appendix/RExpPictures/A/am9.png, id=1340, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am9.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am9.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am9.png  used on input line 13
+5.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 135--136
+ [][] 
+ []
+
+[81 <./Appendix/RExpPictures/A/am8.png>]
+<Appendix/RExpPictures/A/am10.png, id=1347, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/A/am10.png Graphic file (type png)
+<use Appendix/RExpPictures/A/am10.png>
+Package pdftex.def Info: Appendix/RExpPictures/A/am10.png  used on input line 1
+42.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 142--143
+ [][] 
+ []
+
+[82 <./Appendix/RExpPictures/A/am9.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.147 ...\section{{Angular Frequency versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RExpPictures/F/fm1.png, id=1354, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm1.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm1.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm1.png  used on input line 15
+1.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+[83 <./Appendix/RExpPictures/A/am10.png>]
+<Appendix/RExpPictures/F/fm2.png, id=1361, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm2.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm2.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm2.png  used on input line 15
+8.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 158--159
+ [][] 
+ []
+
+[84 <./Appendix/RExpPictures/F/fm1.png>]
+<Appendix/RExpPictures/F/fm3.png, id=1369, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm3.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm3.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm3.png  used on input line 16
+5.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 165--166
+ [][] 
+ []
+
+[85 <./Appendix/RExpPictures/F/fm2.png>]
+<Appendix/RExpPictures/F/fm4.png, id=1376, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm4.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm4.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm4.png  used on input line 17
+2.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+[86 <./Appendix/RExpPictures/F/fm3.png>]
+<Appendix/RExpPictures/F/fm5.png, id=1383, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm5.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm5.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm5.png  used on input line 17
+9.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 179--180
+ [][] 
+ []
+
+[87 <./Appendix/RExpPictures/F/fm4.png>]
+<Appendix/RExpPictures/F/fm6.png, id=1390, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm6.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm6.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm6.png  used on input line 18
+6.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 186--187
+ [][] 
+ []
+
+[88 <./Appendix/RExpPictures/F/fm5.png>]
+<Appendix/RExpPictures/F/fm7.png, id=1397, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm7.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm7.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm7.png  used on input line 19
+3.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 193--194
+ [][] 
+ []
+
+[89 <./Appendix/RExpPictures/F/fm6.png>]
+<Appendix/RExpPictures/F/fm8.png, id=1404, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm8.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm8.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm8.png  used on input line 20
+0.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 200--201
+ [][] 
+ []
+
+[90 <./Appendix/RExpPictures/F/fm7.png>]
+<Appendix/RExpPictures/F/fm9.png, id=1412, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm9.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm9.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm9.png  used on input line 20
+7.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 207--208
+ [][] 
+ []
+
+[91 <./Appendix/RExpPictures/F/fm8.png>]
+<Appendix/RExpPictures/F/fm10.png, id=1419, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/F/fm10.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm10.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm10.png  used on input line 2
+14.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 214--215
+ [][] 
+ []
+
+[92 <./Appendix/RExpPictures/F/fm9.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.219 ...section{{Absolute Frequency versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RExpPictures/AF/afm1.png, id=1426, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm1.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm1.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm1.png  used on input line 
+223.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 223--224
+ [][] 
+ []
+
+[93 <./Appendix/RExpPictures/F/fm10.png>]
+<Appendix/RExpPictures/AF/afm2.png, id=1433, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm2.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm2.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm2.png  used on input line 
+230.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 230--231
+ [][] 
+ []
+
+[94 <./Appendix/RExpPictures/AF/afm1.png>]
+<Appendix/RExpPictures/AF/afm3.png, id=1440, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm3.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm3.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm3.png  used on input line 
+237.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 237--238
+ [][] 
+ []
+
+[95 <./Appendix/RExpPictures/AF/afm2.png>]
+<Appendix/RExpPictures/AF/afm4.png, id=1447, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm4.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm4.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm4.png  used on input line 
+244.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 244--245
+ [][] 
+ []
+
+[96 <./Appendix/RExpPictures/AF/afm3.png>]
+File: Appendix/RExpPictures/F/fm5.png Graphic file (type png)
+<use Appendix/RExpPictures/F/fm5.png>
+Package pdftex.def Info: Appendix/RExpPictures/F/fm5.png  used on input line 25
+1.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 251--252
+ [][] 
+ []
+
+[97 <./Appendix/RExpPictures/AF/afm4.png>]
+<Appendix/RExpPictures/AF/afm6.png, id=1461, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm6.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm6.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm6.png  used on input line 
+258.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 258--259
+ [][] 
+ []
+
+[98]
+<Appendix/RExpPictures/AF/afm7.png, id=1467, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm7.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm7.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm7.png  used on input line 
+265.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 265--266
+ [][] 
+ []
+
+[99 <./Appendix/RExpPictures/AF/afm6.png>]
+<Appendix/RExpPictures/AF/afm8.png, id=1474, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm8.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm8.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm8.png  used on input line 
+272.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 272--273
+ [][] 
+ []
+
+[100 <./Appendix/RExpPictures/AF/afm7.png>]
+<Appendix/RExpPictures/AF/afm9.png, id=1481, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm9.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm9.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm9.png  used on input line 
+279.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 279--280
+ [][] 
+ []
+
+[101 <./Appendix/RExpPictures/AF/afm8.png>]
+<Appendix/RExpPictures/AF/afm10.png, id=1488, 462.528pt x 346.896pt>
+File: Appendix/RExpPictures/AF/afm10.png Graphic file (type png)
+<use Appendix/RExpPictures/AF/afm10.png>
+Package pdftex.def Info: Appendix/RExpPictures/AF/afm10.png  used on input line
+ 286.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 286--287
+ [][] 
+ []
+
+[102 <./Appendix/RExpPictures/AF/afm9.png>])
+(Appendix/./Raw Simulation Data.tex
+Appendix C.
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.3 ...\section{{Radial Displacement versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RSimPictures/R/rm1.png, id=1496, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm1.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm1.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm1.png  used on input line 7.
+
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 7--8
+ [][] 
+ []
+
+[103 <./Appendix/RExpPictures/AF/afm10.png>]
+<Appendix/RSimPictures/R/rm2.png, id=1503, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm2.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm2.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm2.png  used on input line 14
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 14--15
+ [][] 
+ []
+
+[104 <./Appendix/RSimPictures/R/rm1.png>]
+<Appendix/RSimPictures/R/rm3.png, id=1510, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm3.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm3.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm3.png  used on input line 21
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 21--22
+ [][] 
+ []
+
+[105 <./Appendix/RSimPictures/R/rm2.png>]
+<Appendix/RSimPictures/R/rm4.png, id=1517, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm4.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm4.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm4.png  used on input line 28
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 28--29
+ [][] 
+ []
+
+[106 <./Appendix/RSimPictures/R/rm3.png>]
+<Appendix/RSimPictures/R/rm5.png, id=1524, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm5.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm5.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm5.png  used on input line 35
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 35--36
+ [][] 
+ []
+
+[107 <./Appendix/RSimPictures/R/rm4.png>]
+<Appendix/RSimPictures/R/rm6.png, id=1531, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm6.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm6.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm6.png  used on input line 42
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 42--43
+ [][] 
+ []
+
+<Appendix/RSimPictures/R/rm7.png, id=1532, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm7.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm7.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm7.png  used on input line 49
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+[108 <./Appendix/RSimPictures/R/rm5.png>] [109 <./Appendix/RSimPictures/R/rm6.p
+ng>]
+<Appendix/RSimPictures/R/rm8.png, id=1546, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm8.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm8.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm8.png  used on input line 56
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 56--57
+ [][] 
+ []
+
+[110 <./Appendix/RSimPictures/R/rm7.png>]
+<Appendix/RSimPictures/R/rm9.png, id=1553, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm9.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm9.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm9.png  used on input line 63
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 63--64
+ [][] 
+ []
+
+[111 <./Appendix/RSimPictures/R/rm8.png>]
+<Appendix/RSimPictures/R/rm10.png, id=1560, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/R/rm10.png Graphic file (type png)
+<use Appendix/RSimPictures/R/rm10.png>
+Package pdftex.def Info: Appendix/RSimPictures/R/rm10.png  used on input line 7
+0.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+[112 <./Appendix/RSimPictures/R/rm9.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.75 ...ection{{Angular Displacement versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RSimPictures/A/am1.png, id=1567, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am1.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am1.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am1.png  used on input line 79
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 79--80
+ [][] 
+ []
+
+[113 <./Appendix/RSimPictures/R/rm10.png>]
+<Appendix/RSimPictures/A/am2.png, id=1574, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am2.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am2.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am2.png  used on input line 86
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+[114 <./Appendix/RSimPictures/A/am1.png>]
+<Appendix/RSimPictures/A/am3.png, id=1582, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am3.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am3.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am3.png  used on input line 93
+.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 93--94
+ [][] 
+ []
+
+[115 <./Appendix/RSimPictures/A/am2.png>]
+<Appendix/RSimPictures/A/am4.png, id=1589, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am4.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am4.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am4.png  used on input line 10
+0.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+[116 <./Appendix/RSimPictures/A/am3.png>]
+<Appendix/RSimPictures/A/am5.png, id=1596, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am5.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am5.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am5.png  used on input line 10
+7.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 107--108
+ [][] 
+ []
+
+[117 <./Appendix/RSimPictures/A/am4.png>]
+<Appendix/RSimPictures/A/am6.png, id=1603, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am6.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am6.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am6.png  used on input line 11
+4.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
+
+[118 <./Appendix/RSimPictures/A/am5.png>]
+<Appendix/RSimPictures/A/am7.png, id=1610, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am7.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am7.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am7.png  used on input line 12
+1.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 121--122
+ [][] 
+ []
+
+[119 <./Appendix/RSimPictures/A/am6.png>]
+<Appendix/RSimPictures/A/am8.png, id=1617, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am8.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am8.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am8.png  used on input line 12
+8.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+[120 <./Appendix/RSimPictures/A/am7.png>]
+<Appendix/RSimPictures/A/am9.png, id=1625, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am9.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am9.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am9.png  used on input line 13
+5.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 135--136
+ [][] 
+ []
+
+[121 <./Appendix/RSimPictures/A/am8.png>]
+<Appendix/RSimPictures/A/am10.png, id=1632, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/A/am10.png Graphic file (type png)
+<use Appendix/RSimPictures/A/am10.png>
+Package pdftex.def Info: Appendix/RSimPictures/A/am10.png  used on input line 1
+42.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 142--143
+ [][] 
+ []
+
+[122 <./Appendix/RSimPictures/A/am9.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.147 ...\section{{Angular Frequency versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RSimPictures/F/fm1.png, id=1639, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm1.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm1.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm1.png  used on input line 15
+1.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+[123 <./Appendix/RSimPictures/A/am10.png>]
+<Appendix/RSimPictures/F/fm2.png, id=1646, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm2.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm2.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm2.png  used on input line 15
+8.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 158--159
+ [][] 
+ []
+
+<Appendix/RSimPictures/F/fm3.png, id=1647, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm3.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm3.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm3.png  used on input line 16
+5.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 165--166
+ [][] 
+ []
+
+[124 <./Appendix/RSimPictures/F/fm1.png>] [125 <./Appendix/RSimPictures/F/fm2.p
+ng>]
+<Appendix/RSimPictures/F/fm4.png, id=1660, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm4.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm4.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm4.png  used on input line 17
+2.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+[126 <./Appendix/RSimPictures/F/fm3.png>]
+<Appendix/RSimPictures/F/fm5.png, id=1668, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm5.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm5.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm5.png  used on input line 17
+9.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 179--180
+ [][] 
+ []
+
+[127 <./Appendix/RSimPictures/F/fm4.png>]
+<Appendix/RSimPictures/F/fm6.png, id=1675, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm6.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm6.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm6.png  used on input line 18
+6.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 186--187
+ [][] 
+ []
+
+[128 <./Appendix/RSimPictures/F/fm5.png>]
+<Appendix/RSimPictures/F/fm7.png, id=1682, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm7.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm7.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm7.png  used on input line 19
+3.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 193--194
+ [][] 
+ []
+
+[129 <./Appendix/RSimPictures/F/fm6.png>]
+<Appendix/RSimPictures/F/fm8.png, id=1689, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm8.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm8.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm8.png  used on input line 20
+0.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 200--201
+ [][] 
+ []
+
+[130 <./Appendix/RSimPictures/F/fm7.png>]
+<Appendix/RSimPictures/F/fm9.png, id=1696, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm9.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm9.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm9.png  used on input line 20
+7.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 207--208
+ [][] 
+ []
+
+[131 <./Appendix/RSimPictures/F/fm8.png>]
+<Appendix/RSimPictures/F/fm10.png, id=1703, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/F/fm10.png Graphic file (type png)
+<use Appendix/RSimPictures/F/fm10.png>
+Package pdftex.def Info: Appendix/RSimPictures/F/fm10.png  used on input line 2
+14.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 214--215
+ [][] 
+ []
+
+[132 <./Appendix/RSimPictures/F/fm9.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   p
+l.219 ...section{{Absolute Frequency versus Time}}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<Appendix/RSimPictures/AF/afm1.png, id=1711, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm1.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm1.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm1.png  used on input line 
+223.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 223--224
+ [][] 
+ []
+
+[133 <./Appendix/RSimPictures/F/fm10.png>]
+<Appendix/RSimPictures/AF/afm2.png, id=1718, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm2.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm2.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm2.png  used on input line 
+230.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 230--231
+ [][] 
+ []
+
+[134 <./Appendix/RSimPictures/AF/afm1.png>]
+<Appendix/RSimPictures/AF/afm3.png, id=1725, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm3.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm3.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm3.png  used on input line 
+237.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 237--238
+ [][] 
+ []
+
+[135 <./Appendix/RSimPictures/AF/afm2.png>]
+<Appendix/RSimPictures/AF/afm4.png, id=1732, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm4.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm4.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm4.png  used on input line 
+244.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 244--245
+ [][] 
+ []
+
+[136 <./Appendix/RSimPictures/AF/afm3.png>]
+<Appendix/RSimPictures/AF/afm5.png, id=1739, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm5.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm5.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm5.png  used on input line 
+251.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 251--252
+ [][] 
+ []
+
+[137 <./Appendix/RSimPictures/AF/afm4.png>]
+<Appendix/RSimPictures/AF/afm6.png, id=1746, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm6.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm6.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm6.png  used on input line 
+258.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 258--259
+ [][] 
+ []
+
+<Appendix/RSimPictures/AF/afm7.png, id=1747, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm7.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm7.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm7.png  used on input line 
+265.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 265--266
+ [][] 
+ []
+
+[138 <./Appendix/RSimPictures/AF/afm5.png>] [139 <./Appendix/RSimPictures/AF/af
+m6.png>]
+<Appendix/RSimPictures/AF/afm8.png, id=1761, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm8.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm8.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm8.png  used on input line 
+272.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 272--273
+ [][] 
+ []
+
+[140 <./Appendix/RSimPictures/AF/afm7.png>]
+<Appendix/RSimPictures/AF/afm9.png, id=1768, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm9.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm9.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm9.png  used on input line 
+279.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 279--280
+ [][] 
+ []
+
+[141 <./Appendix/RSimPictures/AF/afm8.png>]
+<Appendix/RSimPictures/AF/afm10.png, id=1775, 462.528pt x 346.896pt>
+File: Appendix/RSimPictures/AF/afm10.png Graphic file (type png)
+<use Appendix/RSimPictures/AF/afm10.png>
+Package pdftex.def Info: Appendix/RSimPictures/AF/afm10.png  used on input line
+ 286.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 286--287
+ [][] 
+ []
+
+[142 <./Appendix/RSimPictures/AF/afm9.png>]) (Appendix/./Derived Data.tex
+Appendix D.
+<Appendix/Derived Data Pictures/dm1.png, id=1782, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm1.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm1.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm1.png  used on input 
+line 5.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 5--6
+ [][] 
+ []
+
+[143 <./Appendix/RSimPictures/AF/afm10.png>]
+<Appendix/Derived Data Pictures/dm3.png, id=1789, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm3.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm3.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm3.png  used on input 
+line 12.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 12--13
+ [][] 
+ []
+
+[144 <./Appendix/Derived Data Pictures/dm1.png>]
+File: Appendix/Derived Data Pictures/dm3.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm3.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm3.png  used on input 
+line 19.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 19--20
+ [][] 
+ []
+
+[145 <./Appendix/Derived Data Pictures/dm3.png>]
+<Appendix/Derived Data Pictures/dm4.png, id=1803, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm4.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm4.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm4.png  used on input 
+line 26.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 26--27
+ [][] 
+ []
+
+[146]
+<Appendix/Derived Data Pictures/dm5.png, id=1809, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm5.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm5.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm5.png  used on input 
+line 33.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 33--34
+ [][] 
+ []
+
+[147 <./Appendix/Derived Data Pictures/dm4.png>]
+<Appendix/Derived Data Pictures/dm6.png, id=1816, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm6.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm6.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm6.png  used on input 
+line 40.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 40--41
+ [][] 
+ []
+
+[148 <./Appendix/Derived Data Pictures/dm5.png>]
+<Appendix/Derived Data Pictures/dm7.png, id=1823, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm7.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm7.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm7.png  used on input 
+line 47.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 47--48
+ [][] 
+ []
+
+[149 <./Appendix/Derived Data Pictures/dm6.png>]
+<Appendix/Derived Data Pictures/dm8.png, id=1830, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm8.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm8.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm8.png  used on input 
+line 54.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+[150 <./Appendix/Derived Data Pictures/dm7.png>]
+<Appendix/Derived Data Pictures/dm9.png, id=1838, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm9.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm9.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm9.png  used on input 
+line 61.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 61--62
+ [][] 
+ []
+
+[151 <./Appendix/Derived Data Pictures/dm8.png>]
+<Appendix/Derived Data Pictures/dm10.png, id=1845, 462.528pt x 346.896pt>
+File: Appendix/Derived Data Pictures/dm10.png Graphic file (type png)
+<use Appendix/Derived Data Pictures/dm10.png>
+Package pdftex.def Info: Appendix/Derived Data Pictures/dm10.png  used on input
+ line 68.
+(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (72.52686pt too wide) in paragraph at lines 68--69
+ [][] 
+ []
+
+[152 <./Appendix/Derived Data Pictures/dm9.png>])) [153 <./Appendix/Derived Dat
+a Pictures/dm10.png>] (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: D2D0D2C1A12422F33B91A4518FF7987E;14041
-(rerunfilecheck)             After:  11DD3152D2AEE80BDEF0E276F5583D0D;11296.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 883F46C62EAD34C5F208AD02E80B1C75;14144.
  ) 
 Here is how much of TeX's memory you used:
- 37377 strings out of 478868
- 822714 string characters out of 2865271
- 1336641 words of memory out of 3000000
- 54331 multiletter control sequences out of 15000+600000
- 450212 words of font info for 133 fonts, out of 8000000 for 9000
+ 39676 strings out of 478868
+ 866363 string characters out of 2865271
+ 1611472 words of memory out of 3000000
+ 55856 multiletter control sequences out of 15000+600000
+ 472674 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,89p,1195b,926s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{appendix.D} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.C.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.C.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.C.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.C.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{appendix.C} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.B.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{appendix.B} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.A.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{appendix.A} has been referenced but does not exist,
- replaced by a fixed one
-
-{C:/MikTek/fonts/enc/dvips/base/8r.enc}<C:/MikTek/fonts/type1/public/amsfonts/c
-m/cmex10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MikTek/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/MikTek/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/MikT
-ek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><
-C:/MikTek/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek/fonts/type1/urw/times/utm
-r8a.pfb><C:/MikTek/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (48 pages, 1907496 bytes).
+ 84i,16n,94p,1195b,2116s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/MikTek/fonts/enc/dvips/base/8r.enc}<C:/MikTek/fonts/type1/public/amsfonts
+/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MikTe
+k/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MikTek/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTe
+k/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/public/amsfo
+nts/cm/cmtt10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/MikT
+ek/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/MikTek/fonts/type1/urw/sy
+mbol/usyr.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1
+/urw/times/utmb8a.pfb><C:/MikTek/fonts/type1/urw/times/utmbi8a.pfb><C:/MikTek/f
+onts/type1/urw/times/utmr8a.pfb><C:/MikTek/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (154 pages, 6234210 bytes).
 PDF statistics:
- 696 PDF objects out of 1000 (max. 8388607)
- 166 named destinations out of 1000 (max. 500000)
- 733 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2089 PDF objects out of 2487 (max. 8388607)
+ 794 named destinations out of 1000 (max. 500000)
+ 1176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

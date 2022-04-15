@@ -2,7 +2,7 @@
 
 \section{{The Lagrangian function}}
         
-    {Firstly, we must know that the fundamental concepts of \textbf{Lagrangian mechanics} and \textbf{Lagrange's equations}.}
+    {Firstly, we must know that the fundamental concepts of \textbf{Lagrangian mechanics} and \textbf{Lagrange's equations} from (Morin; Deyst and How).}
         
     {The \textbf{Lagrangian} is a function that is mathematically defined as,}
         
@@ -18,11 +18,11 @@
       
     \section{{Generalized coordinates}}
         
-    {According to our specific system that we are investigating, we have two generalized coordinates in \textbf{polar coordinate representation}, $\theta$ and x.}
+    {According to our specific system that we are investigating, we have two generalized coordinates in \textbf{polar coordinate representation}, $\theta$ and \textit{x}.}
         
     {$\theta$ represents the \textbf{angle formed by the spring component with the fictitious normal} of the system at any given time and is a function of time (time-dependent).}
         
-    {x represents the \textbf{extension in the spring component from the equilibrium length} at any given time and is a function of time (time - dependent).}
+    {\textit{x} represents the \textbf{extension in the spring component from the equilibrium length} at any given time and is a function of time (time - dependent).}
             
     \section{{Generalized forces}}
         
@@ -34,7 +34,7 @@
         
 \section{{Air Drag/Fluid Resistance}}
         
-    {Air Drag/Fluid Resistance is the force acting opposite to the relative motion of any object moving in any fluid medium. Drag force is proportional to the \textbf{square of velocity}, as we are dealing with relatively high-speeds, which can be inferred from the small Reynolds's number.}
+    {Air Drag/Fluid Resistance is the force acting opposite to the relative motion of any object moving in any fluid medium. Drag force is proportional to the \textbf{square of velocity} (Gossard and Vandiver; Deyst and How), as we are dealing with relatively high-speeds, which can be inferred from the small Reynolds's number.}
             
     {Drag forces decrease the fluid velocity relative to the solid mass in the fluid's path.}
             
@@ -46,7 +46,7 @@
             
         $$F_D = \frac{1}{2}\rho v^2C_DA$$
            
-    {Where $F_D$ is the \textbf{Air/Fluid resistance} between the mass and the fluid, $\rho$ is the \textbf{density of the fluid}, v is the \textbf{speed of the object} relative to the fluid, $C_D$ is \textbf{velocity decay constant} (damping constant) and A is the \textbf{cross sectional area}.}
+    {Where $F_D$ is the \textbf{Air/Fluid resistance} between the mass and the fluid, $\rho$ is the \textbf{density of the fluid}, \textit{v} is the \textbf{speed of the object} relative to the fluid, $C_D$ is \textbf{velocity decay constant} (damping constant) and \textit{A} is the \textbf{cross sectional area}.}
             
     {\textbf{Note}: The Drag force can be embedded and modeled into the Euler-Lagrange equation by the aid of the Rayleigh dissipation function and can be generally modeled using Stokes Law, as we are using object masses that are spherical.}
             
@@ -54,11 +54,11 @@
             
     {Secondly, we must also know that,}
             
-    {If the frictional force on a particle with velocity $\vec{v}$ can be written as $\vec{F_f} = -\vec{k}\cdot\vec{v}$, the Rayleigh dissipation function can be defined for a system of \textbf{n} particles as,}
+    {If the frictional force on a particle with velocity $\vec{v}$ can be written as $\vec{F_f} = -\vec{k}\cdot\vec{v}$, the Rayleigh dissipation function from (Paulsson) can be defined for a system of \textit{\textbf{n}} particles as,}
             
         $$R/D = \frac{1}{2} \sum_{i=0}^n C_Dv^2_i = \frac{1}{2}C_D \sum_{i=0}^n v^2_i$$
             
-    {Where R or D is the Rayleigh dissipation function which is a function used to handle and model the effects of \textbf{velocity-proportional frictional forces in Lagrangian mechanics}, where $C_D$ is the \textbf{velocity decay constant} (damping constant) and $\sum_{i=0}^n v^2_i$ is the sum of all velocities squared in all degrees of freedom pertaining to a mechanical system with n being the number of degrees of freedom in the system.}
+    {Where \textit{R} or \textit{D} is the Rayleigh dissipation function which is a function used to handle and model the effects of \textbf{velocity-proportional frictional forces in Lagrangian mechanics}, where $C_D$ is the \textbf{velocity decay constant} (damping constant) and $\sum_{i=0}^n v^2_i$ is the sum of all velocities squared in all degrees of freedom pertaining to a mechanical system with \textit{n} being the number of degrees of freedom in the system.}
 		
 	{\textbf{Note}: An alternate representation could also be used to represent $C_D$ in the form of a $n \times n$ matrix. Mathematically,}        
             
@@ -73,7 +73,7 @@
             
 \section{{Stokes Law}}\label{slaw}
             
-    {We must know the Stroke's Law and the relation it defines to accurately model the change in Air Drag/Fluid Resistance with time.}
+    {We must know the Stroke's Law (Gossard and Vandiver) and the relation it defines to accurately model the change in Air Drag/Fluid Resistance with time.}
             
     {Stroke's Law states a relation for the frictional force (drag force) exerted on \textbf{spherical objects} with very \textbf{small Reynolds numbers} in a viscous fluid. Mathematically,}
             
@@ -81,11 +81,11 @@
             
     {\textbf{Note}: This relation is only applicable in this scenario because the mass that we are dealing with is spherical.}
             
-    {Where $F_D$ is the small Reynolds numbers between the mass and the fluid, $\mu$ is the \textbf{dynamic viscosity} of the fluid, R is the \textbf{radius} of the mass and $v_D$ is the \textbf{flow velocity} relative to the mass.}
+    {Where $F_D$ is the small Reynolds numbers between the mass and the fluid, $\mu$ is the \textbf{dynamic viscosity} of the fluid, \textit{R} is the \textbf{radius} of the mass and $v_D$ is the \textbf{flow velocity} relative to the mass.}
             
 \section{{Logarithmic Decrement}}
             
-    {The system exhibits an interesting feature, that of constant logarithmic decrements, that is,}
+    {From (Inman) we know that the system exhibits an interesting feature, that of constant logarithmic decrements, that is,}
             
         $$\ln{\frac{x_1}{x_2}} = \ln{\frac{x_2}{x_3}} = \ln{\frac{x_3}{x_4}} = \cdots\cdots\cdots$$
             

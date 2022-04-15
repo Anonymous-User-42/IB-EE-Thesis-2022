@@ -1,4 +1,3 @@
-\babel@toc {nil}{}\relax 
 \contentsline {chapter}{\numberline {1}{Introduction}}{4}{chapter.1}%
 \contentsline {chapter}{\numberline {2}{Aim}}{4}{chapter.2}%
 \contentsline {chapter}{\numberline {3}{Hypothesis}}{4}{chapter.3}%
@@ -11,7 +10,7 @@
 \contentsline {section}{\numberline {4.6}{Stokes Law}}{7}{section.4.6}%
 \contentsline {section}{\numberline {4.7}{Logarithmic Decrement}}{7}{section.4.7}%
 \contentsline {section}{\numberline {4.8}{Computer Simulation Software}}{8}{section.4.8}%
-\contentsline {chapter}{\numberline {5}{Materials Required}}{8}{chapter.5}%
+\contentsline {chapter}{\numberline {5}{Materials Required}}{9}{chapter.5}%
 \contentsline {chapter}{\numberline {6}{Variables}}{9}{chapter.6}%
 \contentsline {chapter}{\numberline {7}{Procedure}}{10}{chapter.7}%
 \contentsline {chapter}{\numberline {8}{Initial Conditions}}{10}{chapter.8}%
@@ -61,7 +60,8 @@
 \contentsline {chapter}{\numberline {18}{Safety Measures}}{48}{chapter.18}%
 \contentsline {chapter}{\numberline {19}{Sources of Error}}{49}{chapter.19}%
 \contentsline {chapter}{\numberline {20}{Conclusion}}{49}{chapter.20}%
-\contentsline {chapter}{\textit {Bibliography}}{51}{chapter.20}%
+\contentsline {chapter}{{Works Cited}}{51}{chapter.20}%
+\contentsline {chapter}{{Bibliography}}{51}{chapter*.2}%
 \contentsline {chapter}{\numberline {A}{Python Source Codes}}{54}{appendix.A}%
 \contentsline {section}{\numberline {A.1}{Graphical Solution Codes}}{54}{section.A.1}%
 \contentsline {section}{\numberline {A.2}{Path Animation Codes}}{58}{section.A.2}%
