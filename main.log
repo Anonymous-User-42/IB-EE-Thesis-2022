@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  7 JAN 2022 14:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  1 MAR 2022 11:02
 entering extended mode
 **./main.tex
 (main.tex
@@ -1230,7 +1230,7 @@ Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 (C:\MikTek\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2021-08-04 L3 Experimental document command parser
 ))
-(Front matter/Title Page v2.tex
+(Front matter/Title Page v3.tex
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -1803,13 +1803,13 @@ l.114 \end{abstract}
                      [1]
 Chapter 1.
 (Sections/Introduction.tex
-Overfull \hbox (11.99364pt too wide) in paragraph at lines 1--2
+Overfull \hbox (11.99364pt too wide) in paragraph at lines 1--3
 \OT1/cmr/m/it/12 the \OT1/cmr/bx/it/12 mechanics of the damped elastic pendulum
 \OT1/cmr/m/it/12 , its \OT1/cmr/bx/it/12 complex dynamics\OT1/cmr/m/it/12 ,
  []
 
 
-Overfull \hbox (9.71733pt too wide) in paragraph at lines 1--2
+Overfull \hbox (9.71733pt too wide) in paragraph at lines 1--3
 \OT1/cmr/m/it/12 its \OT1/cmr/bx/it/12 unstable chaotic behavior \OT1/cmr/m/it/
 12 and its \OT1/cmr/bx/it/12 excruciating difficulty in possibly
  []
@@ -3594,7 +3594,7 @@ nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTek/fonts/type1/public/amsfonts/
 cm/cmsy8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb><C:/MikTek/fonts/type1/public/amsfonts/
 cm/cmtt12.pfb><C:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (160 pages, 6284653 bytes).
+Output written on main.pdf (160 pages, 6284556 bytes).
 PDF statistics:
  2135 PDF objects out of 2487 (max. 8388607)
  796 named destinations out of 1000 (max. 500000)
