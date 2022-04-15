@@ -14,7 +14,7 @@
         
     $$\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{q}_j}\right) - \frac{\partial L}{\partial q_j} = Q_j$$
         
-    \textit{Where $q_i$ is the generalized coordinates and $Q_j$ is the generalized forces.}
+    \textit{Where $q_j$ is the generalized coordinates and $Q_j$ is the generalized forces.}
       
     \section{\textit{Generalized coordinates}}
         
@@ -48,7 +48,7 @@
            
     \textit{Where $F_D$ is the Air/Fluid resistance between the mass and the fluid, $\rho$ is the density of the fluid, v is the speed of the object relative to the fluid, $C_D$ is velocity decay constant (damping constant) and A is the cross sectional area.}
             
-    \textit{The Drag force can be embedded and modelled into the Euler-Lagrange equation by the aid of the Rayleigh dissipation function and can be generally modeled using Stroke's Law, as we are using object masses that are spherical.}
+    \textit{\textbf{Note}: The Drag force can be embedded and modeled into the Euler-Lagrange equation by the aid of the Rayleigh dissipation function and can be generally modeled using Stroke's Law, as we are using object masses that are spherical.}
             
 \section{\textit{Rayleigh dissipation function}}
             
@@ -58,7 +58,9 @@
             
         $$R/D = \frac{1}{2} \sum_{i=0}^n C_Dv^2_i = \frac{1}{2}C_D \sum_{i=0}^n v^2_i$$
             
-    \textit{Where R or D is the Rayleigh dissipation function which is a function used to handle and model the effects of velocity-proportional frictional forces in Lagrangian mechanics, where $C_D$ is the velocity decay constant (damping constant) and $\sum_{i=0}^n v^2_i$ is the sum of all velocities squared in all degrees of freedom pertaining to a mechanical system with i being the number of degrees of freedom in the system.}
+    \textit{Where R or D is the Rayleigh dissipation function which is a function used to handle and model the effects of velocity-proportional frictional forces in Lagrangian mechanics, where $C_D$ is the velocity decay constant (damping constant) and $\sum_{i=0}^n v^2_i$ is the sum of all velocities squared in all degrees of freedom pertaining to a mechanical system with n being the number of degrees of freedom in the system.}
+		
+	\textit{\textbf{Note}: An alternate representation could be also used to represent $C_D$ in the form of a $n \times n$ matrix.}    
             
 \section{\textit{Stroke's Law}}\label{slaw}
             
@@ -80,7 +82,7 @@
             
     \textit{Where $x_n$ and $x_{n + 1}$ are the amplitudes of any two successive peaks ($n \in \mathbb{R}$).}
             
-    \textit{Also interestingly that for any two successive peaks, if we define,}
+    \textit{Also interestingly that for any two successive peaks of a graphical representation of any parameter versus time employed in this investigation, if we define,}
             
         $$\delta = \ln{\left(\frac{x_n}{x_{n + 1}}\right)}$$
             
@@ -100,7 +102,7 @@
             
 \section{\textit{Computer Simulation Software}}
         
-    \textit{To model the chaotic system of the Damped Harmonic Elastic Pendulum we would need the aid of \textbf{computational technology}. Software's such MATLAB, Mathematica or some simple, eccentric computer programming language code in a script format, that would compute and yield solutions and necessary simulations that are required.}
+    \textit{To model the chaotic system of the Damped Harmonic Elastic Pendulum we would need the aid of \textbf{computational technology}. Software's such MATLAB, Mathematica or some simple, eccentric computer programming language code in a emulatable script format, that would compute and yield solutions for necessary simulations that are required.}
     
     \textit{For the purpose of this investigation we shall be using a \textbf{Python script}, the source code of which can be found in \textbf{appendix \ref{pycode}}, to model and simulate the dynamic and chaotic system.}
         
