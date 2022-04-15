@@ -29,6 +29,9 @@
 \usepackage[page,title,titletoc]{appendix}
 \usepackage{listingsutf8}
 \usepackage{xpatch}
+\usepackage{mathptmx}
+%\usepackage{sectsty,lmodern}
+
 
 
 
@@ -64,7 +67,8 @@
 
 
 \renewcommand{\contentsname}{\textit{Contents}\hline}
-\renewcommand{\bibname}{\textit{Bibliography}}
+%\renewcommand{\bibname}{\textit{Bibliography}}
+\renewcommand{\bibname}{\textit{Works Cited}}
 \renewcommand{\listfigurename}{\textit{List of Figures}\hline}
 \renewcommand{\listtablename}{\textit{List of Tables}\hline}
 %\renewcommand{\chapter}{\chapter\vspace{-2cm}}
@@ -72,14 +76,31 @@
 
 \nocite{*}
 
-\titleformat{\chapter}[display]   
-{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}   
+%\titleformat{\chapter}[display]   
+%{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}   
+
 \titlespacing*{\chapter}{0pt}{20pt}{10pt}
 
-\titleformat{\chapter}{\huge\bfseries}{\thechapter}{0.5em}{\huge}
+%\titleformat{\chapter}{\fontsize{56pt}{64pt}\bfseries}{\thechapter}{0.5em}{\huge}
+%\makeatletter
+%\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+%\makeatother
+
+%\titleformat{\chapter}{\huge\bfseries}
+\titleformat{\chapter}{\fontsize{18pt}{10pt}\bfseries}{\thechapter}{0.5em}{}
+%{}{0.5em}{\huge}
+%{}{0em}{\huge}
 \makeatletter
 \patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
 \makeatother
+
+%\titleformat{\chapter}[display]{\fontsize{16pt}{10pt}\bfseries}{\thechapter}{5pt}{}
+
+\titleformat{\section}{\fontsize{16pt}{}\bfseries}{\thesection}{0.5em}{}
+
+\titleformat{\subsection}{\fontsize{14pt}{}\bfseries}{\thesubsection}{0.5em}{}
+
+\titleformat{\subsubsection}{\fontsize{12pt}{}\bfseries}{\thesubsubsection}{0.5em}{}
 
 
 
@@ -94,7 +115,7 @@
 
 
 
-\input{Front matter/Title Page v3}
+\input{Front matter/Title Page v4}
 
 
 
@@ -105,95 +126,95 @@
 \tableofcontents
 \clearpage
 %\listoffigures
-\listoftables
+%\listoftables
 
 
 
-\begin{abstract}
-    \import{Sections}{Abstract}
-\end{abstract}
+%\begin{abstract}
+%    \import{Sections}{Abstract}
+%\end{abstract}
 
 
 
-\chapter{\textit{Introduction}}
+\chapter{{Introduction}}
         
         \import{Sections}{Introduction}       
         
-\chapter{\textit{Aim}}
+\chapter{{Aim}}
         
         \import{Sections}{Aim}
 
-\chapter{\textit{Hypothesis}}
+\chapter{{Hypothesis}}
         
         \import{Sections}{Hypothesis}    
         
-\chapter{\textit{Background Research}}
+\chapter{{Background Research}}
         
         \import{Sections}{Background Research}
         
-\chapter{\textit{Materials Required}}
+\chapter{{Materials Required}}
         
         \import{Sections}{Materials Required}
         
-\chapter{\textit{Variables}}
+\chapter{{Variables}}
         
         \import{Sections}{Variables}
         
-\chapter{\textit{Procedure}}
+\chapter{{Procedure}}
         
         \import{Sections}{Procedure}
         
- \chapter{\textit{Initial Conditions}}
+ \chapter{{Initial Conditions}}
         
         \import{Sections}{Initial Conditions}
         
-\chapter{\textit{Equations}}
+\chapter{{Equations}}
         
         \import{Sections}{Equation}
         
-\chapter{\textit{Experimental Data}}
+\chapter{{Experimental Data}}
         
         \import{Sections}{Experimental Data Mod 2}
         
-\chapter{\textit{Simulation Data}}
+\chapter{{Simulation Data}}
         
         \import{Sections}{Simulation Data}
         
-\chapter{\textit{Derived Data}}
+\chapter{{Derived Data}}
         
         \import{Sections}{Derived Data}
         
-\chapter{\textit{Observations}}
+\chapter{{Observations}}
         
         \import{Sections}{Observations}
         
-\chapter{\textit{Observations from Derived Data}}
+\chapter{{Observations from Derived Data}}
         
         \import{Sections}{Observations from Derived Data}
         
-\chapter{\textit{Analysis}}
+\chapter{{Analysis}}
         
         \import{Sections}{Graphical Analysis}
         
         \import{Sections}{Numerical Analysis}
         
-\chapter{\textit{Evaluation}}
+\chapter{{Evaluation}}
         
         \import{Sections}{Evaluation}
         
-\chapter{\textit{Limitations of Study}}
+\chapter{{Limitations of Study}}
         
         \import{Sections}{Limitations of Study}
     
-\chapter{\textit{Safety Measures}}
+\chapter{{Safety Measures}}
         
         \import{Sections}{Safety Measures} 
                 
-\chapter{\textit{Sources of Error}}
+\chapter{{Sources of Error}}
         
         \import{Sections}{Sources of Error}
         
-\chapter{\textit{Conclusion}}
+\chapter{{Conclusion}}
         
         \import{Sections}{Conclusion}
         
