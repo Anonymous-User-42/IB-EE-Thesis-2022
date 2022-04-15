@@ -3,10 +3,10 @@
 \contentsline {chapter}{\numberline {2}{Aim}}{4}{chapter.2}%
 \contentsline {chapter}{\numberline {3}{Hypothesis}}{4}{chapter.3}%
 \contentsline {chapter}{\numberline {4}{Background Research}}{4}{chapter.4}%
-\contentsline {section}{\numberline {4.1}{The Lagrangian function}}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.1}{The Lagrangian function}}{5}{section.4.1}%
 \contentsline {section}{\numberline {4.2}{Generalized coordinates}}{5}{section.4.2}%
 \contentsline {section}{\numberline {4.3}{Generalized forces}}{5}{section.4.3}%
-\contentsline {section}{\numberline {4.4}{Air Drag/Fluid Resistance}}{5}{section.4.4}%
+\contentsline {section}{\numberline {4.4}{Air Drag/Fluid Resistance}}{6}{section.4.4}%
 \contentsline {section}{\numberline {4.5}{Rayleigh dissipation function}}{6}{section.4.5}%
 \contentsline {section}{\numberline {4.6}{Stokes Law}}{7}{section.4.6}%
 \contentsline {section}{\numberline {4.7}{Logarithmic Decrement}}{7}{section.4.7}%
@@ -61,18 +61,18 @@
 \contentsline {chapter}{\numberline {18}{Safety Measures}}{48}{chapter.18}%
 \contentsline {chapter}{\numberline {19}{Sources of Error}}{49}{chapter.19}%
 \contentsline {chapter}{\numberline {20}{Conclusion}}{49}{chapter.20}%
-\contentsline {chapter}{\textit {Bibliography}}{50}{chapter.20}%
-\contentsline {chapter}{\numberline {A}{Python Source Codes}}{53}{appendix.A}%
-\contentsline {section}{\numberline {A.1}{Graphical Solution Codes}}{53}{section.A.1}%
-\contentsline {section}{\numberline {A.2}{Path Animation Codes}}{57}{section.A.2}%
-\contentsline {chapter}{\numberline {B}{Raw Experimental Data}}{63}{appendix.B}%
-\contentsline {section}{\numberline {B.1}{Radial Displacement versus Time}}{63}{section.B.1}%
-\contentsline {section}{\numberline {B.2}{Angular Displacement versus Time}}{73}{section.B.2}%
-\contentsline {section}{\numberline {B.3}{Angular Frequency versus Time}}{83}{section.B.3}%
-\contentsline {section}{\numberline {B.4}{Absolute Frequency versus Time}}{93}{section.B.4}%
-\contentsline {chapter}{\numberline {C}{Raw Simulation Data}}{103}{appendix.C}%
-\contentsline {section}{\numberline {C.1}{Radial Displacement versus Time}}{103}{section.C.1}%
-\contentsline {section}{\numberline {C.2}{Angular Displacement versus Time}}{113}{section.C.2}%
-\contentsline {section}{\numberline {C.3}{Angular Frequency versus Time}}{123}{section.C.3}%
-\contentsline {section}{\numberline {C.4}{Absolute Frequency versus Time}}{133}{section.C.4}%
-\contentsline {chapter}{\numberline {D}{Derived Data}}{143}{appendix.D}%
+\contentsline {chapter}{\textit {Bibliography}}{51}{chapter.20}%
+\contentsline {chapter}{\numberline {A}{Python Source Codes}}{54}{appendix.A}%
+\contentsline {section}{\numberline {A.1}{Graphical Solution Codes}}{54}{section.A.1}%
+\contentsline {section}{\numberline {A.2}{Path Animation Codes}}{58}{section.A.2}%
+\contentsline {chapter}{\numberline {B}{Raw Experimental Data}}{64}{appendix.B}%
+\contentsline {section}{\numberline {B.1}{Radial Displacement versus Time}}{64}{section.B.1}%
+\contentsline {section}{\numberline {B.2}{Angular Displacement versus Time}}{74}{section.B.2}%
+\contentsline {section}{\numberline {B.3}{Angular Frequency versus Time}}{84}{section.B.3}%
+\contentsline {section}{\numberline {B.4}{Absolute Frequency versus Time}}{94}{section.B.4}%
+\contentsline {chapter}{\numberline {C}{Raw Simulation Data}}{104}{appendix.C}%
+\contentsline {section}{\numberline {C.1}{Radial Displacement versus Time}}{104}{section.C.1}%
+\contentsline {section}{\numberline {C.2}{Angular Displacement versus Time}}{114}{section.C.2}%
+\contentsline {section}{\numberline {C.3}{Angular Frequency versus Time}}{124}{section.C.3}%
+\contentsline {section}{\numberline {C.4}{Absolute Frequency versus Time}}{134}{section.C.4}%
+\contentsline {chapter}{\numberline {D}{Derived Data}}{144}{appendix.D}%
