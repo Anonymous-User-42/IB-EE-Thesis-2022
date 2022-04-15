@@ -1,78 +1,78 @@
 \babel@toc {nil}{}\relax 
-\contentsline {chapter}{\numberline {1}\textit {Introduction}}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}\textit {Aim}}{1}{chapter.2}%
-\contentsline {chapter}{\numberline {3}\textit {Hypothesis}}{1}{chapter.3}%
-\contentsline {chapter}{\numberline {4}\textit {Background Research}}{2}{chapter.4}%
-\contentsline {section}{\numberline {4.1}\textit {The Lagrangian function}}{2}{section.4.1}%
-\contentsline {section}{\numberline {4.2}\textit {Generalized coordinates}}{2}{section.4.2}%
-\contentsline {section}{\numberline {4.3}\textit {Generalized forces}}{3}{section.4.3}%
-\contentsline {section}{\numberline {4.4}\textit {Air Drag/Fluid Resistance}}{3}{section.4.4}%
-\contentsline {section}{\numberline {4.5}\textit {Rayleigh dissipation function}}{4}{section.4.5}%
-\contentsline {section}{\numberline {4.6}\textit {Stokes Law}}{4}{section.4.6}%
-\contentsline {section}{\numberline {4.7}\textit {Logarithmic Decrement}}{5}{section.4.7}%
-\contentsline {section}{\numberline {4.8}\textit {Computer Simulation Software}}{6}{section.4.8}%
-\contentsline {chapter}{\numberline {5}\textit {Materials Required}}{6}{chapter.5}%
-\contentsline {chapter}{\numberline {6}\textit {Variables}}{7}{chapter.6}%
-\contentsline {chapter}{\numberline {7}\textit {Procedure}}{8}{chapter.7}%
-\contentsline {chapter}{\numberline {8}\textit {Initial Conditions}}{8}{chapter.8}%
-\contentsline {chapter}{\numberline {9}\textit {Equations}}{9}{chapter.9}%
-\contentsline {section}{\numberline {9.1}\textit {Equations of Motion}}{9}{section.9.1}%
-\contentsline {section}{\numberline {9.2}\textit {Drag Equation}}{10}{section.9.2}%
-\contentsline {section}{\numberline {9.3}\textit {Stokes Law Equation}}{10}{section.9.3}%
-\contentsline {section}{\numberline {9.4}\textit {Frequency Equations}}{11}{section.9.4}%
-\contentsline {subsection}{\numberline {9.4.1}\textit {Radial frequency}}{11}{subsection.9.4.1}%
-\contentsline {subsection}{\numberline {9.4.2}\textit {Angular frequency}}{12}{subsection.9.4.2}%
-\contentsline {subsection}{\numberline {9.4.3}\textit {Absolute frequency}}{12}{subsection.9.4.3}%
-\contentsline {section}{\numberline {9.5}\textit {Fundamental Derived Equations}}{12}{section.9.5}%
-\contentsline {chapter}{\numberline {10}\textit {Experimental Data}}{14}{chapter.10}%
-\contentsline {section}{\numberline {10.1}\textit {Radial Displacement versus Time}}{14}{section.10.1}%
-\contentsline {section}{\numberline {10.2}\textit {Angular Displacement versus Time}}{15}{section.10.2}%
-\contentsline {section}{\numberline {10.3}\textit {Angular Frequency versus Time}}{15}{section.10.3}%
-\contentsline {section}{\numberline {10.4}\textit {Absolute Frequency versus Time}}{16}{section.10.4}%
-\contentsline {chapter}{\numberline {11}\textit {Simulation Data}}{17}{chapter.11}%
-\contentsline {section}{\numberline {11.1}\textit {Radial Displacement versus Time}}{17}{section.11.1}%
-\contentsline {section}{\numberline {11.2}\textit {Angular Displacement versus Time}}{18}{section.11.2}%
-\contentsline {section}{\numberline {11.3}\textit {Angular Frequency versus Time}}{18}{section.11.3}%
-\contentsline {section}{\numberline {11.4}\textit {Absolute Frequency versus Time}}{19}{section.11.4}%
-\contentsline {chapter}{\numberline {12}\textit {Derived Data}}{19}{chapter.12}%
-\contentsline {chapter}{\numberline {13}\textit {Observations}}{20}{chapter.13}%
-\contentsline {section}{\numberline {13.1}\textit {Observation from Case 1 where m = 1 kg}}{20}{section.13.1}%
-\contentsline {section}{\numberline {13.2}\textit {Observation from Case 2 where m = 2 kg}}{21}{section.13.2}%
-\contentsline {section}{\numberline {13.3}\textit {Observation from Case 3 where m = 3 kg}}{21}{section.13.3}%
-\contentsline {section}{\numberline {13.4}\textit {Observation from Case 4 where m = 4 kg}}{22}{section.13.4}%
-\contentsline {section}{\numberline {13.5}\textit {Observation from Case 5 where m = 5 kg}}{22}{section.13.5}%
-\contentsline {section}{\numberline {13.6}\textit {Observation from Case 6 where m = 6 kg}}{22}{section.13.6}%
-\contentsline {section}{\numberline {13.7}\textit {Observation from Case 7 where m = 7 kg}}{23}{section.13.7}%
-\contentsline {section}{\numberline {13.8}\textit {Observation from Case 8 where m = 8 kg}}{23}{section.13.8}%
-\contentsline {section}{\numberline {13.9}\textit {Observation from Case 9 where m = 9 kg}}{24}{section.13.9}%
-\contentsline {section}{\numberline {13.10}\textit {Observation from Case 10 where m = 10 kg}}{24}{section.13.10}%
-\contentsline {chapter}{\numberline {14}\textit {Observations from Derived Data}}{25}{chapter.14}%
-\contentsline {chapter}{\numberline {15}\textit {Analysis}}{26}{chapter.15}%
-\contentsline {section}{\numberline {15.1}\textit {Graphical Analysis}}{26}{section.15.1}%
-\contentsline {subsection}{\numberline {15.1.1}\textit {Graphs in relation to the Experimental values versus time}}{26}{subsection.15.1.1}%
-\contentsline {subsection}{\numberline {15.1.2}\textit {Graphs in relation to the Simulation values versus time}}{36}{subsection.15.1.2}%
-\contentsline {section}{\numberline {15.2}\textit {Numerical Analysis}}{46}{section.15.2}%
-\contentsline {subsection}{\numberline {15.2.1}\textit {Radial Displacement versus Time}}{46}{subsection.15.2.1}%
-\contentsline {subsection}{\numberline {15.2.2}\textit {Angular Displacement versus Time}}{46}{subsection.15.2.2}%
-\contentsline {subsection}{\numberline {15.2.3}\textit {Angular Frequency versus Time}}{46}{subsection.15.2.3}%
-\contentsline {subsection}{\numberline {15.2.4}\textit {Absolute Frequency versus Time}}{47}{subsection.15.2.4}%
-\contentsline {chapter}{\numberline {16}\textit {Evaluation}}{47}{chapter.16}%
-\contentsline {chapter}{\numberline {17}\textit {Limitations of Study}}{48}{chapter.17}%
-\contentsline {chapter}{\numberline {18}\textit {Safety Measures}}{49}{chapter.18}%
-\contentsline {chapter}{\numberline {19}\textit {Sources of Error}}{49}{chapter.19}%
-\contentsline {chapter}{\numberline {20}\textit {Conclusion}}{50}{chapter.20}%
-\contentsline {chapter}{\textit {Bibliography}}{51}{chapter.20}%
-\contentsline {chapter}{\numberline {A}\textit {Python Source Codes}}{54}{appendix.A}%
-\contentsline {section}{\numberline {A.1}\textit {Graphical Solution Codes}}{54}{section.A.1}%
-\contentsline {section}{\numberline {A.2}\textit {Path Animation Codes}}{58}{section.A.2}%
-\contentsline {chapter}{\numberline {B}\textit {Raw Experimental Data}}{64}{appendix.B}%
-\contentsline {section}{\numberline {B.1}\textit {Radial Displacement versus Time}}{64}{section.B.1}%
-\contentsline {section}{\numberline {B.2}\textit {Angular Displacement versus Time}}{74}{section.B.2}%
-\contentsline {section}{\numberline {B.3}\textit {Angular Frequency versus Time}}{84}{section.B.3}%
-\contentsline {section}{\numberline {B.4}\textit {Absolute Frequency versus Time}}{94}{section.B.4}%
-\contentsline {chapter}{\numberline {C}\textit {Raw Simulation Data}}{104}{appendix.C}%
-\contentsline {section}{\numberline {C.1}\textit {Radial Displacement versus Time}}{104}{section.C.1}%
-\contentsline {section}{\numberline {C.2}\textit {Angular Displacement versus Time}}{114}{section.C.2}%
-\contentsline {section}{\numberline {C.3}\textit {Angular Frequency versus Time}}{124}{section.C.3}%
-\contentsline {section}{\numberline {C.4}\textit {Absolute Frequency versus Time}}{134}{section.C.4}%
-\contentsline {chapter}{\numberline {D}\textit {Derived Data}}{144}{appendix.D}%
+\contentsline {chapter}{\numberline {1}{Introduction}}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}{Aim}}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {3}{Hypothesis}}{4}{chapter.3}%
+\contentsline {chapter}{\numberline {4}{Background Research}}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}{The Lagrangian function}}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.2}{Generalized coordinates}}{5}{section.4.2}%
+\contentsline {section}{\numberline {4.3}{Generalized forces}}{5}{section.4.3}%
+\contentsline {section}{\numberline {4.4}{Air Drag/Fluid Resistance}}{5}{section.4.4}%
+\contentsline {section}{\numberline {4.5}{Rayleigh dissipation function}}{6}{section.4.5}%
+\contentsline {section}{\numberline {4.6}{Stokes Law}}{7}{section.4.6}%
+\contentsline {section}{\numberline {4.7}{Logarithmic Decrement}}{7}{section.4.7}%
+\contentsline {section}{\numberline {4.8}{Computer Simulation Software}}{8}{section.4.8}%
+\contentsline {chapter}{\numberline {5}{Materials Required}}{8}{chapter.5}%
+\contentsline {chapter}{\numberline {6}{Variables}}{9}{chapter.6}%
+\contentsline {chapter}{\numberline {7}{Procedure}}{10}{chapter.7}%
+\contentsline {chapter}{\numberline {8}{Initial Conditions}}{10}{chapter.8}%
+\contentsline {chapter}{\numberline {9}{Equations}}{11}{chapter.9}%
+\contentsline {section}{\numberline {9.1}{Equations of Motion}}{11}{section.9.1}%
+\contentsline {section}{\numberline {9.2}{Drag Equation}}{12}{section.9.2}%
+\contentsline {section}{\numberline {9.3}{Stokes Law Equation}}{12}{section.9.3}%
+\contentsline {section}{\numberline {9.4}{Frequency Equations}}{13}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}{Radial frequency}}{13}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}{Angular frequency}}{13}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}{Absolute frequency}}{14}{subsection.9.4.3}%
+\contentsline {section}{\numberline {9.5}{Fundamental Derived Equations}}{14}{section.9.5}%
+\contentsline {chapter}{\numberline {10}{Experimental Data}}{15}{chapter.10}%
+\contentsline {section}{\numberline {10.1}{Radial Displacement versus Time}}{15}{section.10.1}%
+\contentsline {section}{\numberline {10.2}{Angular Displacement versus Time}}{16}{section.10.2}%
+\contentsline {section}{\numberline {10.3}{Angular Frequency versus Time}}{16}{section.10.3}%
+\contentsline {section}{\numberline {10.4}{Absolute Frequency versus Time}}{17}{section.10.4}%
+\contentsline {chapter}{\numberline {11}{Simulation Data}}{18}{chapter.11}%
+\contentsline {section}{\numberline {11.1}{Radial Displacement versus Time}}{18}{section.11.1}%
+\contentsline {section}{\numberline {11.2}{Angular Displacement versus Time}}{19}{section.11.2}%
+\contentsline {section}{\numberline {11.3}{Angular Frequency versus Time}}{19}{section.11.3}%
+\contentsline {section}{\numberline {11.4}{Absolute Frequency versus Time}}{20}{section.11.4}%
+\contentsline {chapter}{\numberline {12}{Derived Data}}{20}{chapter.12}%
+\contentsline {chapter}{\numberline {13}{Observations}}{20}{chapter.13}%
+\contentsline {section}{\numberline {13.1}{Observation from Case 1 where m = 1 kg}}{21}{section.13.1}%
+\contentsline {section}{\numberline {13.2}{Observation from Case 2 where m = 2 kg}}{21}{section.13.2}%
+\contentsline {section}{\numberline {13.3}{Observation from Case 3 where m = 3 kg}}{22}{section.13.3}%
+\contentsline {section}{\numberline {13.4}{Observation from Case 4 where m = 4 kg}}{22}{section.13.4}%
+\contentsline {section}{\numberline {13.5}{Observation from Case 5 where m = 5 kg}}{23}{section.13.5}%
+\contentsline {section}{\numberline {13.6}{Observation from Case 6 where m = 6 kg}}{23}{section.13.6}%
+\contentsline {section}{\numberline {13.7}{Observation from Case 7 where m = 7 kg}}{23}{section.13.7}%
+\contentsline {section}{\numberline {13.8}{Observation from Case 8 where m = 8 kg}}{24}{section.13.8}%
+\contentsline {section}{\numberline {13.9}{Observation from Case 9 where m = 9 kg}}{24}{section.13.9}%
+\contentsline {section}{\numberline {13.10}{Observation from Case 10 where m = 10 kg}}{25}{section.13.10}%
+\contentsline {chapter}{\numberline {14}{Observations from Derived Data}}{25}{chapter.14}%
+\contentsline {chapter}{\numberline {15}{Analysis}}{26}{chapter.15}%
+\contentsline {section}{\numberline {15.1}{Graphical Analysis}}{26}{section.15.1}%
+\contentsline {subsection}{\numberline {15.1.1}{Graphs in relation to the Experimental values versus time}}{26}{subsection.15.1.1}%
+\contentsline {subsection}{\numberline {15.1.2}{Graphs in relation to the Simulation values versus time}}{36}{subsection.15.1.2}%
+\contentsline {section}{\numberline {15.2}{Numerical Analysis}}{46}{section.15.2}%
+\contentsline {subsection}{\numberline {15.2.1}{Radial Displacement versus Time}}{46}{subsection.15.2.1}%
+\contentsline {subsection}{\numberline {15.2.2}{Angular Displacement versus Time}}{46}{subsection.15.2.2}%
+\contentsline {subsection}{\numberline {15.2.3}{Angular Frequency versus Time}}{46}{subsection.15.2.3}%
+\contentsline {subsection}{\numberline {15.2.4}{Absolute Frequency versus Time}}{47}{subsection.15.2.4}%
+\contentsline {chapter}{\numberline {16}{Evaluation}}{47}{chapter.16}%
+\contentsline {chapter}{\numberline {17}{Limitations of Study}}{48}{chapter.17}%
+\contentsline {chapter}{\numberline {18}{Safety Measures}}{48}{chapter.18}%
+\contentsline {chapter}{\numberline {19}{Sources of Error}}{49}{chapter.19}%
+\contentsline {chapter}{\numberline {20}{Conclusion}}{49}{chapter.20}%
+\contentsline {chapter}{\textit {Bibliography}}{50}{chapter.20}%
+\contentsline {chapter}{\numberline {A}{Python Source Codes}}{53}{appendix.A}%
+\contentsline {section}{\numberline {A.1}{Graphical Solution Codes}}{53}{section.A.1}%
+\contentsline {section}{\numberline {A.2}{Path Animation Codes}}{57}{section.A.2}%
+\contentsline {chapter}{\numberline {B}{Raw Experimental Data}}{63}{appendix.B}%
+\contentsline {section}{\numberline {B.1}{Radial Displacement versus Time}}{63}{section.B.1}%
+\contentsline {section}{\numberline {B.2}{Angular Displacement versus Time}}{73}{section.B.2}%
+\contentsline {section}{\numberline {B.3}{Angular Frequency versus Time}}{83}{section.B.3}%
+\contentsline {section}{\numberline {B.4}{Absolute Frequency versus Time}}{93}{section.B.4}%
+\contentsline {chapter}{\numberline {C}{Raw Simulation Data}}{103}{appendix.C}%
+\contentsline {section}{\numberline {C.1}{Radial Displacement versus Time}}{103}{section.C.1}%
+\contentsline {section}{\numberline {C.2}{Angular Displacement versus Time}}{113}{section.C.2}%
+\contentsline {section}{\numberline {C.3}{Angular Frequency versus Time}}{123}{section.C.3}%
+\contentsline {section}{\numberline {C.4}{Absolute Frequency versus Time}}{133}{section.C.4}%
+\contentsline {chapter}{\numberline {D}{Derived Data}}{143}{appendix.D}%
