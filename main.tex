@@ -26,8 +26,9 @@
 \usetikzlibrary{patterns.meta,decorations.pathmorphing,patterns}
 \tikzexternalize
 \usepackage[]{babel}
-\usepackage{appendix}
+\usepackage[page,title,titletoc]{appendix}
 \usepackage{listingsutf8}
+\usepackage{xpatch}
 
 
 
@@ -66,12 +67,24 @@
 \renewcommand{\bibname}{\textit{Bibliography}}
 \renewcommand{\listfigurename}{\textit{List of Figures}\hline}
 \renewcommand{\listtablename}{\textit{List of Tables}\hline}
+%\renewcommand{\appendixname}{\textit{Appendices}}
 
 \nocite{*}
 
 \titleformat{\chapter}{\huge\bfseries}{\thechapter}{0.5em}{\huge}
 \makeatletter
 \patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+
+
+\let\plainappendixpage\appendixpage
+\makeatletter
+\renewcommand{\appendixpage}{%
+  \begingroup
+  \let\ps@plain\ps@empty
+  \plainappendixpage
+  \endgroup}
 \makeatother
 
 
@@ -189,6 +202,10 @@
 \clearpage
 
 \appendix
+
+\appendixpage
+
+\clearpage
 
 \import{Appendix}{appdix}
 
